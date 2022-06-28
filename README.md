@@ -1,3 +1,9 @@
+Data mumging using:
+* Pandas
+* Spark
+* Dask
+_(possibly vaex and optimus in future)_
+
 # learn-pandas
 Following the pandas user-guide, adding notes and references where I need 'em. 
 * [Pandas 1.4.3 User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html)
