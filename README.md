@@ -3,9 +3,10 @@ Data munging using:
 * 01 [Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html)
 * 02 [Spark](https://spark.apache.org/docs/latest/api/python/user_guide/index.html)
 * 03 [Dask](https://docs.dask.org/en/stable/10-minutes-to-dask.html)
-* 04 [Ray]()
+* 04 [Ray](https://www.ray.io/)
 
-_possibly [vaex](https://vaex.io/docs/tutorials.html) and [optimus](https://docs.hi-optimus.com/en/latest/) in future_
+_possibly [vaex](https://vaex.io/docs/tutorials.html) 
+and [optimus](https://docs.hi-optimus.com/en/latest/) in future_
 
 # 00 Numpy
 
