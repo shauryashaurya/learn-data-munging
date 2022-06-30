@@ -27,6 +27,8 @@ Using Pyspark.
 Future State: if time permits will try a bunch of Scala Notebooks too.  
 * [Spark User Guide](https://spark.apache.org/docs/latest/api/python/user_guide/index.html)
 * [**The Internals of Apache Spark** online book](https://books.japila.pl/apache-spark-internals/overview/)
+* [PySpark User Guide](https://spark.apache.org/docs/latest/api/python/user_guide/index.html)
+* [Spark SQL and Built-in Functions Reference](https://spark.apache.org/docs/latest/api/sql/index.html)
 
 
 # 03 Dask
@@ -51,6 +53,7 @@ There's a lot of interesting tools out there.
 When there's time or need, we'll get to them as well.  
 * [Mars](https://docs.pymars.org/en/latest/)
 * [Modin](https://github.com/modin-project/modin)
+* [Danfo.js - pandas like dataframes in JavaScript](https://danfo.jsdata.org/)
 * ...  
 
 
