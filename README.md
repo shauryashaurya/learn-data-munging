@@ -28,9 +28,10 @@ Future State: if time permits will try a bunch of Scala Notebooks too.
 * [Spark User Guide](https://spark.apache.org/docs/latest/api/python/user_guide/index.html)
 * [**The Internals of Apache Spark** online book](https://books.japila.pl/apache-spark-internals/overview/)
 * [PySpark User Guide](https://spark.apache.org/docs/latest/api/python/user_guide/index.html)
+	* This is also available as live binder notebooks:
+		* [Live Notebook: DataFrame](https://mybinder.org/v2/gh/apache/spark/f74867bddf?filepath=python%2Fdocs%2Fsource%2Fgetting_started%2Fquickstart_df.ipynb)
+		* [Live Notebook: Pandas API on Spark](https://mybinder.org/v2/gh/apache/spark/f74867bddf?filepath=python%2Fdocs%2Fsource%2Fgetting_started%2Fquickstart_ps.ipynb)
 * [Spark SQL and Built-in Functions Reference](https://spark.apache.org/docs/latest/api/sql/index.html)
-* [Live Notebook: DataFrame](https://mybinder.org/v2/gh/apache/spark/f74867bddf?filepath=python%2Fdocs%2Fsource%2Fgetting_started%2Fquickstart_df.ipynb)
-* [Live Notebook: Pandas API on Spark](https://mybinder.org/v2/gh/apache/spark/f74867bddf?filepath=python%2Fdocs%2Fsource%2Fgetting_started%2Fquickstart_ps.ipynb)
 
 
 # 03 Dask
