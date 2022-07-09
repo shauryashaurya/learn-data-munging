@@ -12,6 +12,7 @@ Foundations
 * [Numpy User Guide (v1.23 as of this)](https://numpy.org/doc/stable/user/index.html#user)  
 * [Numpy Tutorials](https://numpy.org/numpy-tutorials/features.html)  
 * [_NumPy Basics: Arrays and Vectorized Computation_ from Wes Mckinney's Python for Data Analysis, 3E:](https://wesmckinney.com/book/numpy-basics.html)  
+* [Numpy is absurd](https://gist.github.com/Moelf/59d6312c51c250ba251125e54bea7282)
 
 
 # 01 Pandas
