@@ -64,11 +64,12 @@ The approach is different: Dask focuses on Task scheduling vs Spark's Map-Reduce
 # Future State / Miscellany
 There's a lot of interesting tools out there.  
 When there's time or need, we'll get to them as well.  
+* [Arrow](https://arrow.apache.org/) and [pyArrow](https://arrow.apache.org/cookbook/py/) really warrant a deeper study. Maybe a gateway to Rust based data processing. 
 * [Mars](https://docs.pymars.org/en/latest/)
 * [Modin](https://github.com/modin-project/modin)
 * [Polars](https://www.pola.rs/). Also, [Polars Github Repo](https://github.com/pola-rs/polars/)
 * [Danfo.js - pandas like dataframes in JavaScript](https://danfo.jsdata.org/)
-* [Orchest](https://www.orchest.io/) for data pipelines
+* [Orchest](https://www.orchest.io/) for data pipelines - maybe?
 * ...  
 
 
