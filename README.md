@@ -90,15 +90,20 @@ When there's time or need, we'll get to them as well.
 * ...    
 
 
-# A Note on Heading Counters: 
+# A Note on numbered headings: 
 As of August 2022, Github README files do not have numbered headings.  
 So we needed to add a custom CSS.  
 But Github does not allow that either (for good reason).  
-So, we embed our CSS in a SVG and embed that SVG here.  
+So, tried embeding CSS in a SVG and embed that SVG here.  
 Here's what helped:  
 * [This Stackoverflow Answer](https://stackoverflow.com/a/66981634)  
 * [This CSS Gist](https://gist.github.com/patik/89ee6092c72a9e39950445c01598517a)
 * [This reference implementation on GitHub](https://github.com/sindresorhus/css-in-readme-like-wat)
+*UPDATE* - this seems to have failed. Oh well!
 
+## Numbered headings in notebooks:
+Used the following solutions:
+* [From Kaggle](https://www.kaggle.com/discussions/getting-started/129348)
+* [This CSS Gist](https://gist.github.com/patik/89ee6092c72a9e39950445c01598517a)
 
 .  
