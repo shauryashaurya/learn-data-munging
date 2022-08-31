@@ -1,4 +1,4 @@
-# A Note on numbered headings:  
+# A Note on Numbered Headings  
 
 *UPDATE* - none of these seem to be working.    
   
@@ -7,7 +7,7 @@ Will debug this when I get the time, or maybe GitHub will enable this feature.
 All in all, this was an interesting detour.  
 Can always Toggle auto-numbering in Jupyter Lab.   
   
-## Numbered headings in notebooks:
+## Numbered headings in notebooks
 
 Added a cell at the top of the notebook with the following code:
 ```
