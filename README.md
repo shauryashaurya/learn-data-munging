@@ -4,7 +4,7 @@ Data Engineering Workshop(s) using some of the more popular libraries circa 2022
 * **00 Numpy**
 	* [WIP]
 * **01 Pandas**
-	* [10+ minutes to pandas](01.001 - 10+ minutes to pandas.ipynb)
+	* [10+ minutes to pandas](01.001%20-%2010%2B%20minutes%20to%20pandas.ipynb)
 	* [more to be added]
 * **02 Spark**
 	* [10+ minutes to pyspark](02.001 - 10+ minutes to pyspark.ipynb)
