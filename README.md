@@ -28,6 +28,8 @@ Foundations
 * [Numpy Tutorials](https://numpy.org/numpy-tutorials/features.html)  
 * [_NumPy Basics: Arrays and Vectorized Computation_ from Wes Mckinney's Python for Data Analysis, 3E:](https://wesmckinney.com/book/numpy-basics.html)  
 * [Numpy is absurd](https://gist.github.com/Moelf/59d6312c51c250ba251125e54bea7282)
+* [100 Numpy Exercises](https://github.com/rougier/numpy-100)
+* [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
   
   
 ## 01 [Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html)  
@@ -38,6 +40,8 @@ The go to data munging approach
 * [_Data Cleaning and Preparation_ from Wes Mckinney's Python for Data Analysis, 3E:](https://wesmckinney.com/book/data-cleaning.html)  
 * [_Data Wrangling: Join, Combine, and Reshape_ from Wes Mckinney's Python for Data Analysis, 3E:](https://wesmckinney.com/book/data-wrangling.html)  
 * [_Data Aggregation and Group Operations_ from Wes Mckinney's Python for Data Analysis, 3E:](https://wesmckinney.com/book/data-aggregation.html)  
+* [Pandas Exercises](https://github.com/guipsamora/pandas_exercises)
+* [100 Pandas Puzzles](https://github.com/ajcr/100-pandas-puzzles)
   
   
 TODO:  
@@ -57,6 +61,11 @@ Future State: if time permits will try a bunch of Scala Notebooks too.
 		* [Live Notebook: DataFrame](https://mybinder.org/v2/gh/apache/spark/f74867bddf?filepath=python%2Fdocs%2Fsource%2Fgetting_started%2Fquickstart_df.ipynb)
 		* [Live Notebook: Pandas API on Spark](https://mybinder.org/v2/gh/apache/spark/f74867bddf?filepath=python%2Fdocs%2Fsource%2Fgetting_started%2Fquickstart_ps.ipynb)
 * [Spark SQL and Built-in Functions Reference](https://spark.apache.org/docs/latest/api/sql/index.html)
+* _weak references, dated but interesting_
+	* [Spark Python Notebooks](https://github.com/jadianes/spark-py-notebooks)
+	* [Data Science Engineering, your way](https://github.com/jadianes/data-science-your-way)
+	* [A scalable on-line movie recommender using Spark and Flask](https://github.com/jadianes/spark-movie-lens)
+* [PySpark Cheatsheet](https://github.com/kevinschaich/pyspark-cheatsheet)
   
   
 ## 03 [Dask](https://docs.dask.org/en/stable/10-minutes-to-dask.html)  
