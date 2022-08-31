@@ -1,6 +1,6 @@
 <div>
 	<a href="https://github.com/shauryashaurya/learn-data-munging/blob/main/numbered_headings.svg">
-		<img src="header.svg" width="800" height="400" alt="Click to see the source">
+		<img src="numbered_headings.svg" width="1" height="1" alt="">
 	</a>
 </div>
 
