@@ -4,11 +4,11 @@ Data Engineering Workshop(s) using some of the more popular libraries circa 2022
 * **00 Numpy**
 	* [WIP]
 * **01 Pandas**
-	* [10+ minutes to pandas](01.001%20-%2010%2B%20minutes%20to%20pandas.ipynb)
+	* **01**.*001* [10+ minutes to pandas](01.001%20-%2010%2B%20minutes%20to%20pandas.ipynb)
 	* [more to be added]
 * **02 Spark**
-	* [10+ minutes to pyspark](02.001 - 10+ minutes to pyspark.ipynb)
-	* [The MovieLens Dataset: Spark Practice Exercises](02.002 - Spark Practice Exercises.ipynb)
+	* **02**.*001* [10+ minutes to pyspark](02.001%20-%2010%2B%20minutes%20to%20pyspark.ipynb)
+	* **02**.*002* [The MovieLens Dataset: Spark Practice Exercises](02.002%20-%20Spark%20Practice%20Exercises.ipynb)
 * **03 Dask**
 	* [WIP*]
 * **04 Ray**
