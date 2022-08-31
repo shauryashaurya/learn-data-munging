@@ -1,9 +1,3 @@
-<div>
-	<a href="https://github.com/shauryashaurya/learn-data-munging/blob/main/numbered_headings.svg">
-		<img src="numbered_headings.svg" width="1" height="1" alt="">
-	</a>
-</div>
-
 # Data munging using **X**
 Data Engineering Workshop(s) using some of the more popular libraries circa 2022.
 
