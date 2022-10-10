@@ -40,7 +40,7 @@ The go to data munging approach
 * [_Data Cleaning and Preparation_ from Wes Mckinney's Python for Data Analysis, 3E:](https://wesmckinney.com/book/data-cleaning.html)  
 * [_Data Wrangling: Join, Combine, and Reshape_ from Wes Mckinney's Python for Data Analysis, 3E:](https://wesmckinney.com/book/data-wrangling.html)  
 * [_Data Aggregation and Group Operations_ from Wes Mckinney's Python for Data Analysis, 3E:](https://wesmckinney.com/book/data-aggregation.html)  
-* [Effective Pandas I Matt Harrison](https://www.youtube.com/watch?v=zgbUk90aQ6A&t=309s)  
+* [Effective Pandas | Matt Harrison](https://www.youtube.com/watch?v=zgbUk90aQ6A&t=309s), also [here](https://www.youtube.com/watch?v=UURvPeczxJI)  
 * _...also from Matt harrison on github_: [effective pandas (book)](https://github.com/mattharrison/effective_pandas_book) and [idiomatic pandas tutorial](https://github.com/mattharrison/Idiomatic-Pandas-Tutorial/blob/main/Idiomatic%20Pandas.ipynb)  
 * [Pandas Exercises](https://github.com/guipsamora/pandas_exercises)
 * [100 Pandas Puzzles](https://github.com/ajcr/100-pandas-puzzles)
