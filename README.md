@@ -12,7 +12,7 @@ Data Engineering Workshop(s) using some of the more popular libraries circa 2022
 	* [TODO: Possibly more real-world examples]
 * **02 Spark**
 	* **02**.*001* [10+ minutes to pyspark](02.001%20-%2010%2B%20minutes%20to%20pyspark.ipynb)
-	* **02**.*002* [Exploratory Data Analysis: Fun with the MovieLens Dataset using PySpark](02.002%20-%20Exploratory%20Data%20Analysis%20-%20Fun%20with%20the%20Movielens%20dataset%20using%20PySpark.ipynb)
+	* **02**.*002* [Exploratory Data Analysis: Fun with the MovieLens Dataset using PySpark](02.002%20-%20Exploratory%20Data%20Analysis%20-%20Fun%20with%20the%20Movielens%20dataset%20using%20PySpark.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/02.002%20-%20Exploratory%20Data%20Analysis%20-%20Fun%20with%20the%20Movielens%20dataset%20using%20PySpark.ipynb)
 * **03 Dask**
 	* [TODO]
 * **04 Ray**
