@@ -4,7 +4,7 @@ Data Engineering Workshop(s) using some of the more popular libraries circa 2022
 * **00 Numpy**
 	* [TODO]
 * **01 Pandas**
-	* **01**.*001* [10+ minutes to pandas](01.001%20-%2010%2B%20minutes%20to%20pandas.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/02.002%20-%20Exploratory%20Data%20Analysis%20-%20Fun%20with%20the%20Movielens%20dataset%20using%20PySpark.ipynb)
+	* **01**.*001* [10+ minutes to pandas](01.001%20-%2010%2B%20minutes%20to%20pandas.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/01.001%20-%2010%2B%20minutes%20to%20pandas.ipynb)
 	* [TODO: Indexing and Selecting Data]
 	* [TODO: Pivot Tables]
 	* [TODO: Grouping, Windowing]
