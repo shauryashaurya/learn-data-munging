@@ -36,7 +36,7 @@ Foundations
 ## 01 [Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html)  
   
 The go to data munging approach  
-* [Pandas 1.4.3 User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html)
+* [Pandas _(current stable version)_ User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html)
 * [10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
 * [_Data Cleaning and Preparation_ from Wes Mckinney's Python for Data Analysis, 3E:](https://wesmckinney.com/book/data-cleaning.html)  
 * [_Data Wrangling: Join, Combine, and Reshape_ from Wes Mckinney's Python for Data Analysis, 3E:](https://wesmckinney.com/book/data-wrangling.html)  
