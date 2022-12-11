@@ -1,6 +1,7 @@
-# Data Munging Using **X**
-![Data Munging Stable Diffusion](data_munging_01.png)
-Data Engineering Workshop(s) using some of the more popular libraries circa 2022.
+# Data Munging Using **X**  
+
+![Data Munging Stable Diffusion](data_munging_01.png| width=120)  
+Data Engineering Workshop(s) using some of the more popular libraries circa 2022.  
 
 * **00 Numpy**
 	* [TODO]
