@@ -1,6 +1,6 @@
 # Data Munging Using **X**  
 
-<img src="data_munging_01.png" width="120" />  
+<img src="data_munging_01.png" width="250" />  
 
 Data Engineering Workshop(s) using some of the more popular libraries circa 2022.  
 
