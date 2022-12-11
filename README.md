@@ -5,7 +5,9 @@ Data Engineering Workshops on some of the more popular libraries circa 2022.
 <img src="data_munging_01.png" width="500" />  
 
 ---
-
+  
+# Notebooks:  
+  
 * **00 Numpy**
 	* [TODO]
 * **01 Pandas**
