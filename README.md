@@ -1,8 +1,9 @@
 # Data Munging Using **X**  
-
-<img src="data_munging_01.png" width="450" />  
-
+  
 Data Engineering Workshop(s) using some of the more popular libraries circa 2022.  
+<img src="data_munging_01.png" width="500" />  
+
+---
 
 * **00 Numpy**
 	* [TODO]
