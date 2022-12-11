@@ -1,6 +1,7 @@
-# Data Munging Using **X**  
+# Data Munging Using **\*X\***  
   
-Data Engineering Workshop(s) using some of the more popular libraries circa 2022.  
+Data Engineering Workshops on some of the more popular libraries circa 2022.  
+  
 <img src="data_munging_01.png" width="500" />  
 
 ---
