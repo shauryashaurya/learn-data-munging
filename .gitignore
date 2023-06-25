@@ -130,3 +130,7 @@ dmypy.json
 
 # Data related
 data/
+
+# Rust Targets
+/target
+sidebars/quick-datafusion-ballista-aside/ballista-datafusion/ballista-datafusion-example/target

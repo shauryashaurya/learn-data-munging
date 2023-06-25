@@ -20,11 +20,18 @@ Data Engineering Workshops on some of the more popular libraries circa 2022.
 * **02 Spark**
 	* **02**.*000* Optional notebook to demonstrate how to run Apache Spark based notebooks in Google Colab [Setup Spark in Google Colab](https://github.com/shauryashaurya/learn-data-munging/blob/main/02.000%20(optional)%20Setup_Spark_in_Google_Colab.ipynb) also [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/02.000%20(optional)%20Setup_Spark_in_Google_Colab.ipynb)
 	* **02**.*001* [10+ minutes to pyspark](02.001%20-%2010%2B%20minutes%20to%20pyspark.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/02.001%20-%2010%2B%20minutes%20to%20pyspark.ipynb)
-	* **02**.*002* [Exploratory Data Analysis: Fun with the MovieLens Dataset using PySpark](02.002%20-%20Exploratory%20Data%20Analysis%20-%20Fun%20with%20the%20Movielens%20dataset%20using%20PySpark.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/02.002%20-%20Exploratory%20Data%20Analysis%20-%20Fun%20with%20the%20Movielens%20dataset%20using%20PySpark.ipynb)
-* **03 Dask**
+	* **02**.*002* [Exploratory Data Analysis: Fun with the MovieLens Dataset using PySpark](02.002%20-%20Exploratory%20Data%20Analysis%20-%20Fun%20with%20the%20Movielens%20dataset%20using%20PySpark.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/02.002%20-%20Exploratory%20Data%20Analysis%20-%20Fun%20with%20the%20Movielens%20dataset%20using%20PySpark.ipynb)  [**TODO**: Break this into multiple notebooks for easier access...]  
+	
+* **03 Dask**  
+	* [TODO]  
+* **04 Ray**  
+	* [TODO]  
+* **05 Apache Arrow and DataFusion**  
+	* [TODO]  
+* **06 Polars**
 	* [TODO]
-* **04 Ray**
-	* [TODO]
+* *99 Static: The **TPC Benchmark** Queries*
+	* [TODO] Also, question: can I just put the queries here? like is that ok? or will I get a slap on my wrist? Lemme try. 
 
 
 # References:  
@@ -93,18 +100,35 @@ The approach is different: Dask focuses on Task scheduling vs Spark's Map-Reduce
 * [Ray Data](https://docs.ray.io/en/latest/data/user-guide.html)
 * [Ray with Spark](https://github.com/oap-project/raydp)
 * [Ray with Dask]()
+
+## 05 [Arrow](https://arrow.apache.org/overview/) and [Arrow DataFusion](https://arrow.apache.org/datafusion/)
+* [Apache Arrow Official Native Rust Implementation](https://docs.rs/crate/arrow/latest)
+* [pyArrow](https://arrow.apache.org/docs/python/)
+* [Apache Arrow Python Cookbook](https://arrow.apache.org/cookbook/py/)
+* [DataFusion User Guide](https://arrow.apache.org/datafusion/user-guide/introduction.html)
+* [Arrow DataFusion Python](https://github.com/apache/arrow-datafusion-python)
+
+## 06 [Polars](https://www.pola.rs/)
+* [Polars User Guide](https://pola-rs.github.io/polars-book/user-guide/) and [Getting Started](https://pola-rs.github.io/polars-book/getting-started/intro/)
   
   
 # Future State / Miscellany  
 There's a lot of interesting tools emerging.   
 When there's time or need, we'll get to them as well.  
-* [Arrow](https://arrow.apache.org/) and [pyArrow](https://arrow.apache.org/cookbook/py/) really warrant a deeper study. Maybe a gateway to Rust based data processing. Not really *emerging* anymore but very interesting to explore.  
+* [Arrow](https://arrow.apache.org/) and [pyArrow](https://arrow.apache.org/cookbook/py/) really warrant a deeper study. Maybe a gateway to Rust based data processing. Not really *emerging* anymore, a lot of very cool stuff is being done with this and datafusion, very interesting to explore.  
 * [Mars](https://docs.pymars.org/en/latest/)  
 * [Modin](https://github.com/modin-project/modin)  
 * [Polars](https://www.pola.rs/). Also, [Polars Github Repo](https://github.com/pola-rs/polars/)  
 * [Danfo.js - pandas like dataframes in JavaScript](https://danfo.jsdata.org/)
 * [Orchest](https://www.orchest.io/) for data pipelines - maybe?  
+* I think there's something to be said about leveraging TPC benchmarks - we'll attend to this in due time. There's got to be a .md readme in this repo that'll list all the queries anyway. Yea, lemme do that soonish.
 * ...    
   
-  
+# MOAR GIMME MOAR LINKS!!!  
+Kitchen sink of all other references I've found useful (or wonderful). There's so much to learn I tell you!  
+* [How Query Engines Work](https://howqueryengineswork.com/00-introduction.html)
+* [Carnegie Mellon's Advanced Database Systems Playlist on YouTube](https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)
+
+
+
 .  
