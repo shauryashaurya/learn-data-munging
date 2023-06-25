@@ -1,6 +1,6 @@
 # Data Munging Using **\*X\***  
   
-Data Engineering Workshops on some of the more popular libraries circa 2022.  
+Data Engineering Workshops on some of the more popular libraries circa 2022-2023.  
   
 <img src="data_munging_01.png" width="500" />  
 
@@ -116,6 +116,7 @@ The approach is different: Dask focuses on Task scheduling vs Spark's Map-Reduce
 There's a lot of interesting tools emerging.   
 When there's time or need, we'll get to them as well.  
 * [Arrow](https://arrow.apache.org/) and [pyArrow](https://arrow.apache.org/cookbook/py/) really warrant a deeper study. Maybe a gateway to Rust based data processing. Not really *emerging* anymore, a lot of very cool stuff is being done with this and datafusion, very interesting to explore.  
+* [Apache Arrow Ballista](https://arrow.apache.org/ballista/) is looking very interesting from a next gen distributed processing PoV
 * [Mars](https://docs.pymars.org/en/latest/)  
 * [Modin](https://github.com/modin-project/modin)  
 * [Polars](https://www.pola.rs/). Also, [Polars Github Repo](https://github.com/pola-rs/polars/)  
