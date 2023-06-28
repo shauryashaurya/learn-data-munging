@@ -127,6 +127,7 @@ When there's time or need, we'll get to them as well.
 * [Danfo.js - pandas like dataframes in JavaScript](https://danfo.jsdata.org/)
 * [Orchest](https://www.orchest.io/) for data pipelines - maybe?  
 * I think there's something to be said about leveraging TPC benchmarks - we'll attend to this in due time. There's got to be a .md readme in this repo that'll list all the queries anyway. Yea, lemme do that soonish.
+* Is there value in comparing formats? (Parquet)[https://parquet.apache.org/docs/], (Zarr)[https://zarr.readthedocs.io/en/stable/tutorial.html] etc.?
 * ...    
   
 # MOAR GIMME MOAR LINKS!!!  
