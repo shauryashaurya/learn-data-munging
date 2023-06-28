@@ -9,7 +9,8 @@ Data Engineering Workshops on some of the more popular libraries circa 2022-2023
 # Notebooks:  
   
 * **00 Numpy**
-	* [TODO]
+	* [TODO]  
+	  
 * **01 Pandas**
 	* **01**.*001* [10+ minutes to pandas](01.001%20-%2010%2B%20minutes%20to%20pandas.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/01.001%20-%2010%2B%20minutes%20to%20pandas.ipynb)
 	* [TODO: Indexing and Selecting Data]
@@ -17,21 +18,26 @@ Data Engineering Workshops on some of the more popular libraries circa 2022-2023
 	* [TODO: Grouping, Windowing]
 	* [TODO: Time]
 	* [TODO: Possibly more real-world examples]
+	  
 * **02 Spark**
 	* **02**.*000* Optional notebook to demonstrate how to run Apache Spark based notebooks in Google Colab [Setup Spark in Google Colab](https://github.com/shauryashaurya/learn-data-munging/blob/main/02.000%20(optional)%20Setup_Spark_in_Google_Colab.ipynb) also [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/02.000%20(optional)%20Setup_Spark_in_Google_Colab.ipynb)
 	* **02**.*001* [10+ minutes to pyspark](02.001%20-%2010%2B%20minutes%20to%20pyspark.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/02.001%20-%2010%2B%20minutes%20to%20pyspark.ipynb)
 	* **02**.*002* [Exploratory Data Analysis: Fun with the MovieLens Dataset using PySpark](02.002%20-%20Exploratory%20Data%20Analysis%20-%20Fun%20with%20the%20Movielens%20dataset%20using%20PySpark.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/02.002%20-%20Exploratory%20Data%20Analysis%20-%20Fun%20with%20the%20Movielens%20dataset%20using%20PySpark.ipynb)  [**TODO**: *Maybe* break this into multiple notebooks for easier access...]  
-	
+  
 * **03 Dask**  
 	* **03**.**001** [10+ minutes to dask](https://github.com/shauryashaurya/learn-data-munging/blob/main/03.001%20-%2010%2B%20minutes%20to%20dask.ipynb), also [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/03.001%20-%2010%2B%20minutes%20to%20dask.ipynb)
 	* [TODO: real world analysis using Dask]  
 	* [TODO: possibly compare groupby and foldby]
-* **04 Ray**  
+  
+* **04 Apache Arrow and DataFusion**  
 	* [TODO]  
-* **05 Apache Arrow and DataFusion**  
-	* [TODO]  
-* **06 Polars**
+  
+* **05 Polars**
 	* [TODO]
+  
+* **06 Ray**  
+	* [TODO]  
+  
 * *99 Static: The **TPC Benchmark** Queries*
 	* [TODO] Also, question: can I just put the queries here? like is that ok? or will I get a slap on my wrist? Lemme try. 
 
@@ -97,23 +103,25 @@ The approach is different: Dask focuses on Task scheduling vs Spark's Map-Reduce
 * [The SciPy 2022 tutorial talk](https://www.youtube.com/watch?v=J0NcbvkYPoE)
   
   
-## 04 [Ray](https://www.ray.io/)  
-  
-* [Ray Core](https://docs.ray.io/en/latest/ray-core/user-guide.html)
-* [Ray Dataset Quickstart](https://docs.ray.io/en/latest/data/getting-started.html#datasets-getting-started)
-* [Ray Data](https://docs.ray.io/en/latest/data/user-guide.html)
-* [Ray with Spark](https://github.com/oap-project/raydp)
-* [Ray with Dask]()
-
-## 05 [Arrow](https://arrow.apache.org/overview/) and [Arrow DataFusion](https://arrow.apache.org/datafusion/)
+## 04 [Arrow](https://arrow.apache.org/overview/) and [Arrow DataFusion](https://arrow.apache.org/datafusion/)
 * [Apache Arrow Official Native Rust Implementation](https://docs.rs/crate/arrow/latest)
 * [pyArrow](https://arrow.apache.org/docs/python/)
 * [Apache Arrow Python Cookbook](https://arrow.apache.org/cookbook/py/)
 * [DataFusion User Guide](https://arrow.apache.org/datafusion/user-guide/introduction.html)
 * [Arrow DataFusion Python](https://github.com/apache/arrow-datafusion-python)
-
-## 06 [Polars](https://www.pola.rs/)
+  
+   
+## 05 [Polars](https://www.pola.rs/)
 * [Polars User Guide](https://pola-rs.github.io/polars-book/user-guide/) and [Getting Started](https://pola-rs.github.io/polars-book/getting-started/intro/)
+  
+  
+## 04 [Ray](https://www.ray.io/)  
+
+* [Ray Core](https://docs.ray.io/en/latest/ray-core/user-guide.html)
+* [Ray Dataset Quickstart](https://docs.ray.io/en/latest/data/getting-started.html#datasets-getting-started)
+* [Ray Data](https://docs.ray.io/en/latest/data/user-guide.html)
+* [Ray with Spark](https://github.com/oap-project/raydp)
+* [Ray with Dask]()
   
   
 # Future State / Miscellany  
