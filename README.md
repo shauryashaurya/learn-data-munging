@@ -25,6 +25,7 @@ Data Engineering Workshops on some of the more popular libraries circa 2022-2023
 * **03 Dask**  
 	* **03**.**001** [10+ minutes to dask](https://github.com/shauryashaurya/learn-data-munging/blob/main/03.001%20-%2010%2B%20minutes%20to%20dask.ipynb), also [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/03.001%20-%2010%2B%20minutes%20to%20dask.ipynb)
 	* [TODO: real world analysis using Dask]  
+	* [TODO: possibly compare groupby and foldby]
 * **04 Ray**  
 	* [TODO]  
 * **05 Apache Arrow and DataFusion**  
@@ -92,6 +93,8 @@ The approach is different: Dask focuses on Task scheduling vs Spark's Map-Reduce
 * [10 minutes to Dask](https://docs.dask.org/en/stable/10-minutes-to-dask.html)  
 * [90-minute Dask tutorial video](https://www.youtube.com/watch?v=_u0OQm9qf_A)  
 * [Talks and tutorials page](https://docs.dask.org/en/latest/presentations.html)  
+* [The Dask tutorial notebooks](https://github.com/dask/dask-tutorial)
+* [The SciPy 2022 tutorial talk](https://www.youtube.com/watch?v=J0NcbvkYPoE)
   
   
 ## 04 [Ray](https://www.ray.io/)  
