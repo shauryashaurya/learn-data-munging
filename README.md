@@ -1,18 +1,21 @@
 # Data Munging Using **\*X\***  
   
-Data Engineering Workshops on some of the more popular libraries circa 2022-2023.  
+Data Engineering Workshops on some of the more popular libraries, frameworks and tech circa 2022-2023.  
   
 <img src="data_munging_01.png" width="500" />  
 
 ---
   
 # Notebooks:  
+
+Note - the *"10+ minutes to XX"* notebooks are just references, not to be run as actual workshop material. These are there to carry toy examples that "getting started" pages for XX carry. I have tried to ensure there's a 10+ minutes notebook for each data engineering library/framework considered here. While it may be interesting to go through these to quickly refresh the syntax and other idiosyncracies, the actual data munging happens in other notebooks.  
+  
   
 * **00 Numpy**
 	* [TODO]  
 	  
 * **01 Pandas**
-	* **01**.*001* [10+ minutes to pandas](01.001%20-%2010%2B%20minutes%20to%20pandas.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/01.001%20-%2010%2B%20minutes%20to%20pandas.ipynb)
+	* **01**.*001* [10+ minutes to pandas](01.001%20-%2010%2B%20minutes%20to%20pandas.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/01.001%20-%2010%2B%20minutes%20to%20pandas.ipynb) 
 	* [TODO: Indexing and Selecting Data]
 	* [TODO: Pivot Tables]
 	* [TODO: Grouping, Windowing]
