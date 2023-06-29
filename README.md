@@ -29,11 +29,11 @@ Data Engineering Workshops on some of the more popular libraries circa 2022-2023
 	* [TODO: real world analysis using Dask]  
 	* [TODO: possibly compare groupby and foldby]
   
-* **04 Apache Arrow and DataFusion**  
-	* [TODO]  
-  
-* **05 Polars**
+* **04 Polars**
 	* [TODO]
+  	
+* **05 Apache Arrow and DataFusion**  
+	* [TODO]  
   
 * **06 Ray**  
 	* [TODO]  
@@ -102,20 +102,22 @@ The approach is different: Dask focuses on Task scheduling vs Spark's Map-Reduce
 * [The Dask tutorial notebooks](https://github.com/dask/dask-tutorial)
 * [The SciPy 2022 tutorial talk](https://www.youtube.com/watch?v=J0NcbvkYPoE)
   
+   
+## 04 [Polars](https://www.pola.rs/)
+* [Polars User Guide](https://pola-rs.github.io/polars-book/user-guide/) and [Getting Started](https://pola-rs.github.io/polars-book/getting-started/intro/)  
   
-## 04 [Arrow](https://arrow.apache.org/overview/) and [Arrow DataFusion](https://arrow.apache.org/datafusion/)
+  
+## 05 [Arrow](https://arrow.apache.org/overview/) and [Arrow DataFusion](https://arrow.apache.org/datafusion/)
 * [Apache Arrow Official Native Rust Implementation](https://docs.rs/crate/arrow/latest)
 * [pyArrow](https://arrow.apache.org/docs/python/)
 * [Apache Arrow Python Cookbook](https://arrow.apache.org/cookbook/py/)
 * [DataFusion User Guide](https://arrow.apache.org/datafusion/user-guide/introduction.html)
 * [Arrow DataFusion Python](https://github.com/apache/arrow-datafusion-python)
+* [Arrow NumPy Integration](https://arrow.apache.org/docs/python/numpy.html)
+* [Arrow Pandas Integration](https://arrow.apache.org/docs/python/pandas.html)
+
   
-   
-## 05 [Polars](https://www.pola.rs/)
-* [Polars User Guide](https://pola-rs.github.io/polars-book/user-guide/) and [Getting Started](https://pola-rs.github.io/polars-book/getting-started/intro/)
-  
-  
-## 04 [Ray](https://www.ray.io/)  
+## 06 [Ray](https://www.ray.io/)  
 
 * [Ray Core](https://docs.ray.io/en/latest/ray-core/user-guide.html)
 * [Ray Dataset Quickstart](https://docs.ray.io/en/latest/data/getting-started.html#datasets-getting-started)
@@ -129,7 +131,7 @@ There's a lot of interesting tools emerging.
 When there's time or need, we'll get to them as well.  
 * [Arrow](https://arrow.apache.org/) and [pyArrow](https://arrow.apache.org/cookbook/py/) really warrant a deeper study. Maybe a gateway to Rust based data processing. Not really *emerging* anymore, a lot of very cool stuff is being done with this and datafusion, very interesting to explore.  
 * [Apache Arrow Ballista](https://arrow.apache.org/ballista/) is looking very interesting from a next gen distributed processing PoV
-* [Mars](https://docs.pymars.org/en/latest/)  
+* [Mars](https://docs.pymars.org/en/latest/) and [Project Mars on GitHub](https://github.com/mars-project/mars)
 * [Modin](https://github.com/modin-project/modin)  
 * [Polars](https://www.pola.rs/). Also, [Polars Github Repo](https://github.com/pola-rs/polars/)  
 * [Danfo.js - pandas like dataframes in JavaScript](https://danfo.jsdata.org/)
