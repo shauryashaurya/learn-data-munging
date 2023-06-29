@@ -117,6 +117,7 @@ The approach is different: Dask focuses on Task scheduling vs Spark's Map-Reduce
 * [Arrow DataFusion Python](https://github.com/apache/arrow-datafusion-python)
 * [Arrow NumPy Integration](https://arrow.apache.org/docs/python/numpy.html)
 * [Arrow Pandas Integration](https://arrow.apache.org/docs/python/pandas.html)
+* [DataFusion Roadmap Epics](https://github.com/apache/arrow-datafusion/issues?q=is%3Aissue+is%3Aopen+epic)
 
   
 ## 06 [Ray](https://www.ray.io/)  
