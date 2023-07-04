@@ -149,7 +149,10 @@ When there's time or need, we'll get to them as well.
 # MOAR GIMME MOAR LINKS!!!  
 Kitchen sink of all other references I've found useful (or wonderful). There's so much to learn I tell you!  
 * [How Query Engines Work](https://howqueryengineswork.com/00-introduction.html)
-* [Carnegie Mellon's Advanced Database Systems Playlist on YouTube](https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)
+* Carnegie Mellon's Advanced Database Systems Playlist: 
+	* [Spring 2020](https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)
+	* [Spring 2023 session](https://youtube.com/playlist?list=PLSE8ODhjZXjYzlLMbX3cR0sxWnRM7CLFn), also [CMU 15-721 (2023)](https://15721.courses.cs.cmu.edu/spring2023/schedule.html)
+
 
 
 
