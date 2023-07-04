@@ -152,8 +152,13 @@ Kitchen sink of all other references I've found useful (or wonderful). There's s
 * Carnegie Mellon's Advanced Database Systems Playlist: 
 	* [Spring 2020](https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)
 	* [Spring 2023 session](https://youtube.com/playlist?list=PLSE8ODhjZXjYzlLMbX3cR0sxWnRM7CLFn), also [CMU 15-721 (2023)](https://15721.courses.cs.cmu.edu/spring2023/schedule.html)
-
-
+* Go here if the advanced database systems feels hard - [CMU Intro to Database Systems (15-445/645 - Fall 2022)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf), also [course site](https://15445.courses.cs.cmu.edu/fall2022/schedule.html)
+* [Database Query Optimizers](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYPyrUG_YxqYPS7wjWY6gYN)
+* [¡Databases! – A Database Seminar Series (Fall 2022)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjZKp-oX_75aBnznulk7nubu), also on [CMU](https://db.cs.cmu.edu/seminar2022/)
+* [Hardware Accelerated Database Lectures (Fall 2018)](https://db.cs.cmu.edu/seminar2018/)
+* [Time Series Database Lectures (Fall 2017)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjY0GMWN4X8FIkYNfiu8_Wl9)
+* [The Databaseology Lectures (Fall 2015)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjakeQR57ZdN5slUu2oPUr1Y)
+* [Seven Databases in Seven Weeks (Fall 2014)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjY2xvwxuKjZT5qFH0sQga8_)
 
 
 .  
