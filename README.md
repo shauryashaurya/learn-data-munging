@@ -136,7 +136,14 @@ The approach is different: Dask focuses on Task scheduling vs Spark's Map-Reduce
   
   
 # Future State / Miscellany  
-There's a lot of interesting tools emerging.   
+Datasets we use:  
+* [MovieLens 25M Dataset](https://grouplens.org/datasets/movielens/25m/)
+* [Wikipedia Movie Plots](https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-plots)  
+* [CMU Movie Summary Corpus](https://paperswithcode.com/dataset/cmu-movie-summary-corpus) also [here](http://www.cs.cmu.edu/~ark/personas/)
+* [MoviePlotEvents (CMU Movie Summary Corpus with Events)](https://paperswithcode.com/dataset/movieplotevents) also [here](https://www.dropbox.com/s/i5dsk92735jpunf/EventRepresentationDataRelease.zip?dl=0)
+  
+  
+There's a lot of interesting (interesting to me) tools, datasets and papers out there.   
 When there's time or need, we'll get to them as well.  
 * [Arrow](https://arrow.apache.org/) and [pyArrow](https://arrow.apache.org/cookbook/py/) really warrant a deeper study. Maybe a gateway to Rust based data processing. Not really *emerging* anymore, a lot of very cool stuff is being done with this and datafusion, very interesting to explore.  
 * [Apache Arrow Ballista](https://arrow.apache.org/ballista/) is looking very interesting from a next gen distributed processing PoV
@@ -144,9 +151,11 @@ When there's time or need, we'll get to them as well.
 * [Modin](https://github.com/modin-project/modin)  
 * [Polars](https://www.pola.rs/). Also, [Polars Github Repo](https://github.com/pola-rs/polars/)  
 * [Danfo.js - pandas like dataframes in JavaScript](https://danfo.jsdata.org/)
-* [Orchest](https://www.orchest.io/) for data pipelines - maybe?  
+* [Orchest](https://www.orchest.io/) for data pipelines - maybe?  Update: as of Jly 2023, Nah!
 * I think there's something to be said about leveraging TPC benchmarks - we'll attend to this in due time. There's got to be a .md readme in this repo that'll list all the queries anyway. Yea, lemme do that soonish.
 * Is there value in comparing formats? (Parquet)[https://parquet.apache.org/docs/], (Zarr)[https://zarr.readthedocs.io/en/stable/tutorial.html] etc.?
+* [Papers and Data - Scifi TV Shows (Scifi TV Show Plot Summaries & Events)](https://paperswithcode.com/dataset/scifi-tv-plots)    
+* [Papers and Data - Story Cloze](https://paperswithcode.com/dataset/storycloze)   
 * ...    
   
 # MOAR GIMME MOAR LINKS!!!  
