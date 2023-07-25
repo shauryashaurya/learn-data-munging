@@ -52,7 +52,7 @@ Note - the *"10+ minutes to XX"* notebooks are just references, not to be run as
 
 # References:  
   
-## 00 [Numpy](https://numpy.org/doc/stable/user/index.html)  
+## 01 [Numpy](https://numpy.org/doc/stable/user/index.html)  
   
 Foundations  
 * [Numpy User Guide (v1.23 as of this)](https://numpy.org/doc/stable/user/index.html#user)  
@@ -63,7 +63,7 @@ Foundations
 * [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
   
   
-## 01 [Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html)  
+## 02 [Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html)  
   
 The go to data munging approach  
 * [Pandas _(current stable version)_ User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html)
@@ -82,7 +82,7 @@ TODO:
 * Real world analysis example instead of toy dataframes
   
   
-## 02 [Spark](https://spark.apache.org/docs/latest/api/python/user_guide/index.html)  
+## 03 [Spark](https://spark.apache.org/docs/latest/api/python/user_guide/index.html)  
 
 Distributed, Map-Reduce based jobs.  
 Using Pyspark.  
@@ -101,7 +101,7 @@ Future State: if time permits will try a bunch of Scala Notebooks too.
 * [PySpark Cheatsheet](https://github.com/kevinschaich/pyspark-cheatsheet)
   
   
-## 03 [Dask](https://docs.dask.org/en/stable/10-minutes-to-dask.html)  
+## 04 [Dask](https://docs.dask.org/en/stable/10-minutes-to-dask.html)  
   
 The approach is different: Dask focuses on Task scheduling vs Spark's Map-Reduce  
 * [10 minutes to Dask](https://docs.dask.org/en/stable/10-minutes-to-dask.html)  
@@ -111,13 +111,14 @@ The approach is different: Dask focuses on Task scheduling vs Spark's Map-Reduce
 * [The SciPy 2022 tutorial talk](https://www.youtube.com/watch?v=J0NcbvkYPoE)
   
    
-## 04 [Polars](https://www.pola.rs/)
+## 05 [Polars](https://www.pola.rs/)
 * [Polars User Guide](https://pola-rs.github.io/polars-book/user-guide/) and [Getting Started](https://pola-rs.github.io/polars-book/getting-started/intro/)  
   
   
-## 05 [Arrow](https://arrow.apache.org/overview/) and [Arrow DataFusion](https://arrow.apache.org/datafusion/)
+## 06 [Arrow](https://arrow.apache.org/overview/),  [Arrow DataFusion](https://arrow.apache.org/datafusion/) and [Ballista](https://arrow.apache.org/ballista/)
 * [Apache Arrow Official Native Rust Implementation](https://docs.rs/crate/arrow/latest)
 * [pyArrow](https://arrow.apache.org/docs/python/)
+* [Ballista on GitHub](https://github.com/apache/arrow-ballista)
 * [Apache Arrow Python Cookbook](https://arrow.apache.org/cookbook/py/)
 * [DataFusion User Guide](https://arrow.apache.org/datafusion/user-guide/introduction.html)
 * [Arrow DataFusion Python](https://github.com/apache/arrow-datafusion-python)
@@ -126,7 +127,7 @@ The approach is different: Dask focuses on Task scheduling vs Spark's Map-Reduce
 * [DataFusion Roadmap Epics](https://github.com/apache/arrow-datafusion/issues?q=is%3Aissue+is%3Aopen+epic)
 
   
-## 06 [Ray](https://www.ray.io/)  
+## 07 [Ray](https://www.ray.io/)  
 
 * [Ray Core](https://docs.ray.io/en/latest/ray-core/user-guide.html)
 * [Ray Dataset Quickstart](https://docs.ray.io/en/latest/data/getting-started.html#datasets-getting-started)
@@ -146,7 +147,8 @@ Datasets we use:
 There's a lot of interesting (interesting to me) tools, datasets and papers out there.   
 When there's time or need, we'll get to them as well.  
 * [Arrow](https://arrow.apache.org/) and [pyArrow](https://arrow.apache.org/cookbook/py/) really warrant a deeper study. Maybe a gateway to Rust based data processing. Not really *emerging* anymore, a lot of very cool stuff is being done with this and datafusion, very interesting to explore.  
-* [Apache Arrow Ballista](https://arrow.apache.org/ballista/) is looking very interesting from a next gen distributed processing PoV
+* [Apache Arrow Ballista](https://arrow.apache.org/ballista/) is looking very interesting from a next gen distributed processing PoV  
+* [PRQL](https://prql-lang.org/), [*on github*](https://github.com/PRQL/prql) and [PRQL Query](https://github.com/PRQL/prql-query). Also the [PRQL Book](https://prql-lang.org/book/).  
 * [Mars](https://docs.pymars.org/en/latest/) and [Project Mars on GitHub](https://github.com/mars-project/mars)
 * [Modin](https://github.com/modin-project/modin)  
 * [Polars](https://www.pola.rs/). Also, [Polars Github Repo](https://github.com/pola-rs/polars/)  
@@ -174,6 +176,6 @@ Kitchen sink of all other references I've found useful (or wonderful). There's s
 * [Time Series Database Lectures (Fall 2017)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjY0GMWN4X8FIkYNfiu8_Wl9)
 * [The Databaseology Lectures (Fall 2015)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjakeQR57ZdN5slUu2oPUr1Y)
 * [Seven Databases in Seven Weeks (Fall 2014)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjY2xvwxuKjZT5qFH0sQga8_)
-
-
+  
+  
 .  
