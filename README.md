@@ -6,18 +6,18 @@ Data Engineering Workshops on some of the more popular libraries, frameworks and
 
 ---
   
-# Notebooks:  
+# Notebooks  
 
 Note - the *"10+ minutes to XX"* notebooks are just references, not to be run as actual workshop material. These are there to carry toy examples that "getting started" pages for XX carry. I have tried to ensure there's a 10+ minutes notebook for each data engineering library/framework considered here. While it may be interesting to go through these to quickly refresh the syntax and other idiosyncracies, the actual data munging happens in other notebooks.  
   
   
-* **00 Python Collections**
+### * **00 Python Collections**
 	* [TODO]  
 	
-* **01 Numpy**  
+### * **01 Numpy**  
 	* [TODO]  
 	  
-* **02 Pandas**
+### * **02 Pandas**
 	* **02**.*002* [10+ minutes to pandas](02.001%20-%2010%2B%20minutes%20to%20pandas.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/02.001%20-%2010%2B%20minutes%20to%20pandas.ipynb) 
 	* [TODO: Indexing and Selecting Data]
 	* [TODO: Pivot Tables]
@@ -25,34 +25,34 @@ Note - the *"10+ minutes to XX"* notebooks are just references, not to be run as
 	* [TODO: Time]
 	* [TODO: Possibly more real-world examples]
 	  
-* **03 Spark**
+### * **03 Spark**
 	* **03**.*000* Optional notebook to demonstrate how to run Apache Spark based notebooks in Google Colab [Setup Spark in Google Colab](https://github.com/shauryashaurya/learn-data-munging/blob/main/03.000%20(optional)%20Setup_Spark_in_Google_Colab.ipynb) also [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/03.000%20(optional)%20Setup_Spark_in_Google_Colab.ipynb)
 	* **03**.*001* [10+ minutes to pyspark](03.001%20-%2010%2B%20minutes%20to%20pyspark.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/03.001%20-%2010%2B%20minutes%20to%20pyspark.ipynb)
 	* **03**.*002* [Exploratory Data Analysis: Fun with the MovieLens Dataset using PySpark](03.002%20-%20Exploratory%20Data%20Analysis%20-%20Fun%20with%20the%20Movielens%20dataset%20using%20PySpark.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/03.002%20-%20Exploratory%20Data%20Analysis%20-%20Fun%20with%20the%20Movielens%20dataset%20using%20PySpark.ipynb)  [**TODO**: *Maybe* break this into multiple notebooks for easier access...]  
   
-* **04 Dask**  
+### * **04 Dask**  
 	* [WIP] **04**.*001* [10+ minutes to dask](https://github.com/shauryashaurya/learn-data-munging/blob/main/04.001%20-%2010%2B%20minutes%20to%20dask.ipynb), also [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/04.001%20-%2010%2B%20minutes%20to%20dask.ipynb)
 	* [TODO: real world analysis using Dask]  
 	* [TODO: possibly compare groupby and foldby]
   
-* **05 Polars**
+### * **05 Polars**
 	* [WIP] **05**.*001* [10+ minutes to polars.ipynb](https://github.com/shauryashaurya/learn-data-munging/blob/main/05.001%20-%2010%2B%20minutes%20to%20polars.ipynb), also on [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/05.001%20-%2010%2B%20minutes%20to%20polars.ipynb) 
 	* [TODO]
   	
-* **06 Apache Arrow and DataFusion**  
+### * **06 Apache Arrow and DataFusion**  
 	* [WIP] **06**.*001* [10+ minutes to pyArrow and DataFusion.ipynb](https://github.com/shauryashaurya/learn-data-munging/blob/main/06.001%20-%2010%2B%20minutes%20to%20pyArrow%20and%20DataFusion.ipynb), also on [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/06.001%20-%2010%2B%20minutes%20to%20pyArrow%20and%20DataFusion.ipynb)	 
 	* [TODO]  
   
-* **07 Ray**  
+### * **07 Ray**  
 	* [TODO]  
   
-* *99 Static: The **TPC Benchmark** Queries*
+### * *99 Static: The **TPC Benchmark** Queries*
 	* [TODO] Also, question: can I just put the queries here? like is that ok? or will I get a slap on my wrist? Lemme try. 
 
 
 # References:  
     
-## 01 [Numpy](https://numpy.org/doc/stable/user/index.html)  
+#### 01 [Numpy](https://numpy.org/doc/stable/user/index.html)  
     
 * [Numpy User Guide (v1.23 as of this)](https://numpy.org/doc/stable/user/index.html#user)  
 * [Numpy Tutorials](https://numpy.org/numpy-tutorials/features.html)  
@@ -62,7 +62,7 @@ Note - the *"10+ minutes to XX"* notebooks are just references, not to be run as
 * [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
     
     
-## 02 [Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html)  
+#### 02 [Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html)  
     
 * [Pandas _(current stable version)_ User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html)
 * [10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
@@ -75,7 +75,7 @@ Note - the *"10+ minutes to XX"* notebooks are just references, not to be run as
 * [100 Pandas Puzzles](https://github.com/ajcr/100-pandas-puzzles)
     
     
-## 03 [Spark](https://spark.apache.org/docs/latest/api/python/user_guide/index.html)  
+#### 03 [Spark](https://spark.apache.org/docs/latest/api/python/user_guide/index.html)  
    
 * [Spark User Guide](https://spark.apache.org/docs/latest/api/python/user_guide/index.html)
 * [**The Internals of Apache Spark** online book](https://books.japila.pl/apache-spark-internals/overview/)
@@ -91,7 +91,7 @@ Note - the *"10+ minutes to XX"* notebooks are just references, not to be run as
 * [PySpark Cheatsheet](https://github.com/kevinschaich/pyspark-cheatsheet)
     
     
-## 04 [Dask](https://docs.dask.org/en/stable/10-minutes-to-dask.html)  
+#### 04 [Dask](https://docs.dask.org/en/stable/10-minutes-to-dask.html)  
     
 The approach is different: Dask focuses on Task scheduling vs Spark's Map-Reduce  
 * [10 minutes to Dask](https://docs.dask.org/en/stable/10-minutes-to-dask.html)  
@@ -101,12 +101,12 @@ The approach is different: Dask focuses on Task scheduling vs Spark's Map-Reduce
 * [The SciPy 2022 tutorial talk](https://www.youtube.com/watch?v=J0NcbvkYPoE)
     
      
-## 05 [Polars](https://www.pola.rs/)
+#### 05 [Polars](https://www.pola.rs/)
     
 * [Polars User Guide](https://pola-rs.github.io/polars-book/user-guide/) and [Getting Started](https://pola-rs.github.io/polars-book/getting-started/intro/)  
     
     
-## 06 [Arrow](https://arrow.apache.org/overview/),  [Arrow DataFusion](https://arrow.apache.org/datafusion/) and [Ballista](https://arrow.apache.org/ballista/)
+#### 06 [Arrow](https://arrow.apache.org/overview/),  [Arrow DataFusion](https://arrow.apache.org/datafusion/) and [Ballista](https://arrow.apache.org/ballista/)
     
 * [Apache Arrow Official Native Rust Implementation](https://docs.rs/crate/arrow/latest)
 * [pyArrow](https://arrow.apache.org/docs/python/)
@@ -119,7 +119,7 @@ The approach is different: Dask focuses on Task scheduling vs Spark's Map-Reduce
 * [DataFusion Roadmap Epics](https://github.com/apache/arrow-datafusion/issues?q=is%3Aissue+is%3Aopen+epic)
     
     
-## 07 [Ray](https://www.ray.io/)  
+#### 07 [Ray](https://www.ray.io/)  
     
 * [Ray Core](https://docs.ray.io/en/latest/ray-core/user-guide.html)
 * [Ray Dataset Quickstart](https://docs.ray.io/en/latest/data/getting-started.html#datasets-getting-started)
