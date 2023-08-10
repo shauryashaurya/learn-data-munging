@@ -13,75 +13,75 @@ Note - the *"10+ minutes to XX"* notebooks are just references, not to be run as
   
 ### 00 Python Collections  
   
-	* [TODO]  
+- [TODO]  
 	
 ### 01 Numpy    
   
-	* [TODO]  
+- [TODO]  
 	  
 ### 02 Pandas    
   
-	* 02.*002* [10+ minutes to pandas](02.001%20-%2010%2B%20minutes%20to%20pandas.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/02.001%20-%2010%2B%20minutes%20to%20pandas.ipynb) 
-	* [TODO: Indexing and Selecting Data]
-	* [TODO: Pivot Tables]
-	* [TODO: Grouping, Windowing]
-	* [TODO: Time]
-	* [TODO: Possibly more real-world examples]
+- [02.*002* 10+ minutes to pandas](02.001%20-%2010%2B%20minutes%20to%20pandas.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/02.001%20-%2010%2B%20minutes%20to%20pandas.ipynb) 
+- [TODO: Indexing and Selecting Data]
+- [TODO: Pivot Tables]
+- [TODO: Grouping, Windowing]
+- [TODO: Time]
+- [TODO: Possibly more real-world examples]
 	  
 ### 03 Spark  
     
-	* 03.*000* Optional notebook to demonstrate how to run Apache Spark based notebooks in Google Colab [Setup Spark in Google Colab](https://github.com/shauryashaurya/learn-data-munging/blob/main/03.000%20(optional)%20Setup_Spark_in_Google_Colab.ipynb) also [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/03.000%20(optional)%20Setup_Spark_in_Google_Colab.ipynb)
-	* 03.*001* [10+ minutes to pyspark](03.001%20-%2010%2B%20minutes%20to%20pyspark.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/03.001%20-%2010%2B%20minutes%20to%20pyspark.ipynb)
-	* 03.*002* [Exploratory Data Analysis: Fun with the MovieLens Dataset using PySpark](03.002%20-%20Exploratory%20Data%20Analysis%20-%20Fun%20with%20the%20Movielens%20dataset%20using%20PySpark.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/03.002%20-%20Exploratory%20Data%20Analysis%20-%20Fun%20with%20the%20Movielens%20dataset%20using%20PySpark.ipynb)  [TODO: *Maybe* break this into multiple notebooks for easier access...]  
+- 03.*000* Optional notebook to demonstrate how to run Apache Spark based notebooks in Google Colab [Setup Spark in Google Colab](https://github.com/shauryashaurya/learn-data-munging/blob/main/03.000%20(optional)%20Setup_Spark_in_Google_Colab.ipynb) also [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/03.000%20(optional)%20Setup_Spark_in_Google_Colab.ipynb)
+- 03.*001* [10+ minutes to pyspark](03.001%20-%2010%2B%20minutes%20to%20pyspark.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/03.001%20-%2010%2B%20minutes%20to%20pyspark.ipynb)
+- 03.*002* [Exploratory Data Analysis: Fun with the MovieLens Dataset using PySpark](03.002%20-%20Exploratory%20Data%20Analysis%20-%20Fun%20with%20the%20Movielens%20dataset%20using%20PySpark.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/03.002%20-%20Exploratory%20Data%20Analysis%20-%20Fun%20with%20the%20Movielens%20dataset%20using%20PySpark.ipynb)  [TODO: *Maybe* break this into multiple notebooks for easier access...]  
     
 ### 04 Dask    
     
-	* [WIP] 04.*001* [10+ minutes to dask](https://github.com/shauryashaurya/learn-data-munging/blob/main/04.001%20-%2010%2B%20minutes%20to%20dask.ipynb), also [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/04.001%20-%2010%2B%20minutes%20to%20dask.ipynb)
-	* [TODO: real world analysis using Dask]  
-	* [TODO: possibly compare groupby and foldby]
+- [WIP] 04.*001* [10+ minutes to dask](https://github.com/shauryashaurya/learn-data-munging/blob/main/04.001%20-%2010%2B%20minutes%20to%20dask.ipynb), also [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/04.001%20-%2010%2B%20minutes%20to%20dask.ipynb)
+- [TODO: real world analysis using Dask]  
+- [TODO: possibly compare groupby and foldby]
     
 ### 05 Polars    
     
-	* [WIP] 05.*001* [10+ minutes to polars.ipynb](https://github.com/shauryashaurya/learn-data-munging/blob/main/05.001%20-%2010%2B%20minutes%20to%20polars.ipynb), also on [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/05.001%20-%2010%2B%20minutes%20to%20polars.ipynb) 
-	* [TODO]
+- [WIP] 05.*001* [10+ minutes to polars.ipynb](https://github.com/shauryashaurya/learn-data-munging/blob/main/05.001%20-%2010%2B%20minutes%20to%20polars.ipynb), also on [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/05.001%20-%2010%2B%20minutes%20to%20polars.ipynb) 
+- [TODO]
   	  
 ### 06 Apache Arrow and DataFusion    
-    
-	* [WIP] 06.*001* [10+ minutes to pyArrow and DataFusion.ipynb](https://github.com/shauryashaurya/learn-data-munging/blob/main/06.001%20-%2010%2B%20minutes%20to%20pyArrow%20and%20DataFusion.ipynb), also on [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/06.001%20-%2010%2B%20minutes%20to%20pyArrow%20and%20DataFusion.ipynb)	 
-	* [TODO]  
+      
+- [WIP] 06.*001* [10+ minutes to pyArrow and DataFusion.ipynb](https://github.com/shauryashaurya/learn-data-munging/blob/main/06.001%20-%2010%2B%20minutes%20to%20pyArrow%20and%20DataFusion.ipynb), also on [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/06.001%20-%2010%2B%20minutes%20to%20pyArrow%20and%20DataFusion.ipynb)	 
+- [TODO]  
     
 ### 07 Ray    
     
-	* [TODO]  
+- [TODO]  
     
-### *99 Static: The TPC Benchmark Queries*    
+### 99 Static: The TPC Benchmark Queries     
     
-	* [TODO] Also, question: can I just put the queries here? like is that ok? or will I get a slap on my wrist? Lemme try. 
+- [TODO] Also, question: can I just put the queries here? like is that ok? or will I get a slap on my wrist? Lemme try. 
   
   
-# References:  
+# References  
     
 #### 01 [Numpy](https://numpy.org/doc/stable/user/index.html)  
     
-* [Numpy User Guide (v1.23 as of this)](https://numpy.org/doc/stable/user/index.html#user)  
-* [Numpy Tutorials](https://numpy.org/numpy-tutorials/features.html)  
-* [_NumPy Basics: Arrays and Vectorized Computation_ from Wes Mckinney's Python for Data Analysis, 3E:](https://wesmckinney.com/book/numpy-basics.html)  
-* [Numpy is absurd](https://gist.github.com/Moelf/59d6312c51c250ba251125e54bea7282)
-* [100 Numpy Exercises](https://github.com/rougier/numpy-100)
-* [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
+- [Numpy User Guide (v1.23 as of this)](https://numpy.org/doc/stable/user/index.html#user)  
+- [Numpy Tutorials](https://numpy.org/numpy-tutorials/features.html)  
+- [_NumPy Basics: Arrays and Vectorized Computation_ from Wes Mckinney's Python for Data Analysis, 3E:](https://wesmckinney.com/book/numpy-basics.html)  
+- [Numpy is absurd](https://gist.github.com/Moelf/59d6312c51c250ba251125e54bea7282)
+- [100 Numpy Exercises](https://github.com/rougier/numpy-100)
+- [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
     
     
 #### 02 [Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html)  
     
-* [Pandas _(current stable version)_ User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html)
-* [10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
-* [_Data Cleaning and Preparation_ from Wes Mckinney's Python for Data Analysis, 3E:](https://wesmckinney.com/book/data-cleaning.html)  
-* [_Data Wrangling: Join, Combine, and Reshape_ from Wes Mckinney's Python for Data Analysis, 3E:](https://wesmckinney.com/book/data-wrangling.html)  
-* [_Data Aggregation and Group Operations_ from Wes Mckinney's Python for Data Analysis, 3E:](https://wesmckinney.com/book/data-aggregation.html)  
-* [Effective Pandas | Matt Harrison](https://www.youtube.com/watch?v=zgbUk90aQ6A&t=309s), also [here](https://www.youtube.com/watch?v=UURvPeczxJI)  
-* _...also from Matt harrison on github_: [effective pandas (book)](https://github.com/mattharrison/effective_pandas_book) and [idiomatic pandas tutorial](https://github.com/mattharrison/Idiomatic-Pandas-Tutorial/blob/main/Idiomatic%20Pandas.ipynb)  
-* [Pandas Exercises](https://github.com/guipsamora/pandas_exercises)
-* [100 Pandas Puzzles](https://github.com/ajcr/100-pandas-puzzles)
+- [Pandas _(current stable version)_ User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html)
+- [10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
+- [_Data Cleaning and Preparation_ from Wes Mckinney's Python for Data Analysis, 3E:](https://wesmckinney.com/book/data-cleaning.html)  
+- [_Data Wrangling: Join, Combine, and Reshape_ from Wes Mckinney's Python for Data Analysis, 3E:](https://wesmckinney.com/book/data-wrangling.html)  
+- [_Data Aggregation and Group Operations_ from Wes Mckinney's Python for Data Analysis, 3E:](https://wesmckinney.com/book/data-aggregation.html)  
+- [Effective Pandas | Matt Harrison](https://www.youtube.com/watch?v=zgbUk90aQ6A&t=309s), also [here](https://www.youtube.com/watch?v=UURvPeczxJI)  
+- _...also from Matt harrison on github_: [effective pandas (book)](https://github.com/mattharrison/effective_pandas_book) and [idiomatic pandas tutorial](https://github.com/mattharrison/Idiomatic-Pandas-Tutorial/blob/main/Idiomatic%20Pandas.ipynb)  
+- [Pandas Exercises](https://github.com/guipsamora/pandas_exercises)
+- [100 Pandas Puzzles](https://github.com/ajcr/100-pandas-puzzles)
     
     
 #### 03 [Spark](https://spark.apache.org/docs/latest/api/python/user_guide/index.html)  
