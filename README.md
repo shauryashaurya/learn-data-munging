@@ -93,10 +93,11 @@ Note - the *"10+ minutes to XX"* notebooks are just references, not to be run as
 		* [Live Notebook: DataFrame](https://mybinder.org/v2/gh/apache/spark/f74867bddf?filepath=python%2Fdocs%2Fsource%2Fgetting_started%2Fquickstart_df.ipynb)
 		* [Live Notebook: Pandas API on Spark](https://mybinder.org/v2/gh/apache/spark/f74867bddf?filepath=python%2Fdocs%2Fsource%2Fgetting_started%2Fquickstart_ps.ipynb)
 * [Spark SQL and Built-in Functions Reference](https://spark.apache.org/docs/latest/api/sql/index.html)
-* _weak references, dated but interesting_
+* _weak references, some dated but interesting_
 	* [Spark Python Notebooks](https://github.com/jadianes/spark-py-notebooks)
 	* [Data Science Engineering, your way](https://github.com/jadianes/data-science-your-way)
-	* [A scalable on-line movie recommender using Spark and Flask](https://github.com/jadianes/spark-movie-lens)
+	* [A scalable on-line movie recommender using Spark and Flask](https://github.com/jadianes/spark-movie-lens)  
+	* [The SparkLearning Repo](https://github.com/ankurchavda/SparkLearning)  
 * [PySpark Cheatsheet](https://github.com/kevinschaich/pyspark-cheatsheet)
     
     
