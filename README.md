@@ -15,13 +15,13 @@ Note - the *"10+ minutes to XX"* notebooks are just references, not to be run as
   
 - [TODO]  
 	
-### 01 Numpy    
+### 01 [Numpy](https://github.com/shauryashaurya/learn-data-munging/tree/main/01-Numpy)    
   
 - [TODO]  
 	  
-### 02 Pandas    
+### 02 [Pandas](https://github.com/shauryashaurya/learn-data-munging/tree/main/02-Pandas)    
   
-- [02.*002* 10+ minutes to pandas](02.001%20-%2010%2B%20minutes%20to%20pandas.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/02.001%20-%2010%2B%20minutes%20to%20pandas.ipynb) 
+- [02.*002* 10+ minutes to pandas](https://github.com/shauryashaurya/learn-data-munging/blob/main/02-Pandas/02.001%20-%2010%2B%20minutes%20to%20pandas.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/02-Pandas/02.001%20-%2010%2B%20minutes%20to%20pandas.ipynb) 
 - [TODO: Indexing and Selecting Data]
 - [TODO: Pivot Tables]
 - [TODO: Grouping, Windowing]
@@ -40,23 +40,23 @@ Note - the *"10+ minutes to XX"* notebooks are just references, not to be run as
 #### 02 - A set of notebooks exploring data wrangling in depth using the MovieLens dataset
 * [Part 01: Overview, Starting Spark and Loading the data](https://github.com/shauryashaurya/learn-data-munging/blob/main/03-Spark/002.01-Analyze-MovieLens-using-PySpark.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/03-Spark/002.01-Analyze-MovieLens-using-PySpark.ipynb) 
     
-### 04 Dask    
+### 04 [Dask](https://github.com/shauryashaurya/learn-data-munging/tree/main/04-Dask)    
     
 - [WIP] 04.*001* [10+ minutes to dask](https://github.com/shauryashaurya/learn-data-munging/blob/main/04.001%20-%2010%2B%20minutes%20to%20dask.ipynb), also [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/04.001%20-%2010%2B%20minutes%20to%20dask.ipynb)
 - [TODO: real world analysis using Dask]  
 - [TODO: possibly compare groupby and foldby]
     
-### 05 Polars    
+### 05 [Polars](https://github.com/shauryashaurya/learn-data-munging/tree/main/05-Polars)    
     
 - [WIP] 05.*001* [10+ minutes to polars.ipynb](https://github.com/shauryashaurya/learn-data-munging/blob/main/05.001%20-%2010%2B%20minutes%20to%20polars.ipynb), also on [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/05.001%20-%2010%2B%20minutes%20to%20polars.ipynb) 
 - [TODO]
   	  
-### 06 Apache Arrow and DataFusion    
+### 06 [Apache Arrow and DataFusion](https://github.com/shauryashaurya/learn-data-munging/tree/main/06-Arrow-DataFusion-Ballista)    
       
 - [WIP] 06.*001* [10+ minutes to pyArrow and DataFusion.ipynb](https://github.com/shauryashaurya/learn-data-munging/blob/main/06.001%20-%2010%2B%20minutes%20to%20pyArrow%20and%20DataFusion.ipynb), also on [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/06.001%20-%2010%2B%20minutes%20to%20pyArrow%20and%20DataFusion.ipynb)	 
 - [TODO]  
     
-### 07 Ray    
+### 07 [Ray](https://github.com/shauryashaurya/learn-data-munging/tree/main/07-Ray)    
     
 - [TODO]  
     
