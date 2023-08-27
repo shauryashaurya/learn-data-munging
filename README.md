@@ -42,18 +42,18 @@ Note - the *"10+ minutes to XX"* notebooks are just references, not to be run as
     
 ### 04 [Dask](https://github.com/shauryashaurya/learn-data-munging/tree/main/04-Dask)    
     
-- [WIP] 04.*001* [10+ minutes to dask](https://github.com/shauryashaurya/learn-data-munging/blob/main/04.001%20-%2010%2B%20minutes%20to%20dask.ipynb), also [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/04.001%20-%2010%2B%20minutes%20to%20dask.ipynb)
+- [WIP] 04.*001* [10+ minutes to dask](https://github.com/shauryashaurya/learn-data-munging/blob/main/04-Dask/04.001%20-%2010%2B%20minutes%20to%20dask.ipynb), also [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/04-Dask/04.001%20-%2010%2B%20minutes%20to%20dask.ipynb)
 - [TODO: real world analysis using Dask]  
 - [TODO: possibly compare groupby and foldby]
     
 ### 05 [Polars](https://github.com/shauryashaurya/learn-data-munging/tree/main/05-Polars)    
     
-- [WIP] 05.*001* [10+ minutes to polars.ipynb](https://github.com/shauryashaurya/learn-data-munging/blob/main/05.001%20-%2010%2B%20minutes%20to%20polars.ipynb), also on [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/05.001%20-%2010%2B%20minutes%20to%20polars.ipynb) 
+- [WIP] 05.*001* [10+ minutes to polars.ipynb](https://github.com/shauryashaurya/learn-data-munging/blob/main/05-Polars/05.001%20-%2010%2B%20minutes%20to%20polars.ipynb), also on [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/05-Polars/05.001%20-%2010%2B%20minutes%20to%20polars.ipynb) 
 - [TODO]
   	  
 ### 06 [Apache Arrow and DataFusion](https://github.com/shauryashaurya/learn-data-munging/tree/main/06-Arrow-DataFusion-Ballista)    
       
-- [WIP] 06.*001* [10+ minutes to pyArrow and DataFusion.ipynb](https://github.com/shauryashaurya/learn-data-munging/blob/main/06.001%20-%2010%2B%20minutes%20to%20pyArrow%20and%20DataFusion.ipynb), also on [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/06.001%20-%2010%2B%20minutes%20to%20pyArrow%20and%20DataFusion.ipynb)	 
+- [WIP] 06.*001* [10+ minutes to pyArrow and DataFusion.ipynb](https://github.com/shauryashaurya/learn-data-munging/blob/main/06-Arrow-DataFusion-Ballista/06.001%20-%2010%2B%20minutes%20to%20pyArrow%20and%20DataFusion.ipynb), also on [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/06-Arrow-DataFusion-Ballista/06.001%20-%2010%2B%20minutes%20to%20pyArrow%20and%20DataFusion.ipynb)	 
 - [TODO]  
     
 ### 07 [Ray](https://github.com/shauryashaurya/learn-data-munging/tree/main/07-Ray)    
