@@ -105,6 +105,7 @@ Note - the *"10+ minutes to XX"* notebooks are just references, not to be run as
 	* [A scalable on-line movie recommender using Spark and Flask](https://github.com/jadianes/spark-movie-lens)  
 	* [The SparkLearning Repo](https://github.com/ankurchavda/SparkLearning)  
 * [PySpark Cheatsheet](https://github.com/kevinschaich/pyspark-cheatsheet)
+* [The "Data Savvy" YouTube Channel](https://www.youtube.com/@DataSavvy)
     
     
 #### 04 [Dask](https://docs.dask.org/en/stable/10-minutes-to-dask.html)  
