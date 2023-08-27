@@ -11,5 +11,4 @@
 * 03 [10+ minutes to pyspark](https://github.com/shauryashaurya/learn-data-munging/blob/main/03-Spark/001.03%2010%2B%20Minutes%20to%20PySpark.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/03-Spark/001.03%2010%2B%20Minutes%20to%20PySpark.ipynb)  
 	  
 ### 02 - A set of notebooks exploring data wrangling in depth using the MovieLens dataset
-* [Part 01: Overview, Starting Spark and Loading the data](https://github.com/shauryashaurya/learn-data-munging/blob/main/03-Spark/002.01-Analyze-MovieLens-using-PySpark.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/03-Spark/002.01-Analyze-MovieLens-using-PySpark.ipynb)  [TODO: *Maybe* break this into multiple notebooks for easier access...]    
-	  
+* [Part 01: Overview, Starting Spark and Loading the data](https://github.com/shauryashaurya/learn-data-munging/blob/main/03-Spark/002.01-Analyze-MovieLens-using-PySpark.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/03-Spark/002.01-Analyze-MovieLens-using-PySpark.ipynb) 
