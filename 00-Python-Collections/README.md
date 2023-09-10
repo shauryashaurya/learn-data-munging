@@ -11,7 +11,7 @@ This set of notebooks works through examples of how some pretty sophisticated da
 *  [Notebook](https://github.com/shauryashaurya/learn-data-munging/blob/main/00-Python-Collections/01.02%20Playing%20with%20Itertools.ipynb) also [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/00-Python-Collections/01.02%20Playing%20with%20Itertools.ipynb)  
   
 ### 03 - Fun with ```Functools```
-* [Notebook](https://github.com/shauryashaurya/learn-data-munging/blob/main/00-Python-Collections/01.03%20Fun%20with%20Functools.ipynb) also [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/00-Python-Collections/01.03%20Fun%20with%20Functools.ipynbb)  
+* [Notebook](https://github.com/shauryashaurya/learn-data-munging/blob/main/00-Python-Collections/01.03%20Fun%20with%20Functools.ipynb) also [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/00-Python-Collections/01.03%20Fun%20with%20Functools.ipynb)  
 
 ### 04 - Some Practice Problems  
 * [Notebook](https://github.com/shauryashaurya/learn-data-munging/blob/main/00-Python-Collections/01.04%20Practice%20Questions.ipynb) also [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/00-Python-Collections/01.04%20Practice%20Questions.ipynb)  
