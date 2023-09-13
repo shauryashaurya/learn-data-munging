@@ -4,8 +4,8 @@ Uses the [small MovieLens dataset](https://grouplens.org/datasets/movielens/#:~:
 
 ## Contents
 
-### 01 - Getting Started
-* [Notebook](https://github.com/shauryashaurya/learn-data-munging/blob/main/01-Numpy/01.01-Getting-Started-With-Numpy.ipynb) also [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/01-Numpy/01.01-Getting-Started-With-Numpy.ipynb)  
+### 01 - 10+ Minutes to Polars
+* [Notebook](https://github.com/shauryashaurya/learn-data-munging/blob/main/05-Polars/01.01-10%2B-minutes-to-polars.ipynb) also [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/05-Polars/01.01-10%2B-minutes-to-polars.ipynb)  
   
 
   .
