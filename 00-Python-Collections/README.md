@@ -15,3 +15,4 @@ This set of notebooks works through examples of how some pretty sophisticated da
 
 ### 04 - Some Practice Problems  
 * [Notebook](https://github.com/shauryashaurya/learn-data-munging/blob/main/00-Python-Collections/01.04%20Practice%20Questions.ipynb) also [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/00-Python-Collections/01.04%20Practice%20Questions.ipynb)  
+* [Practice problems on List Comprehensions - Notebook](https://github.com/shauryashaurya/learn-data-munging/blob/main/00-Python-Collections/01.045%20Practice-List-Comprehensions.ipynb) also [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/00-Python-Collections/01.045%20Practice-List-Comprehensions.ipynb)  
