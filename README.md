@@ -21,17 +21,21 @@ This set of notebooks works through examples of how some pretty sophisticated da
   
 * 03 - Fun with ```Functools```: [Notebook](https://github.com/shauryashaurya/learn-data-munging/blob/main/00-Python-Collections/01.03%20Fun%20with%20Functools.ipynb) also [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/00-Python-Collections/01.03%20Fun%20with%20Functools.ipynbb)  
   
-* 04 - Some Practice Problems: [Notebook](https://github.com/shauryashaurya/learn-data-munging/blob/main/00-Python-Collections/01.04%20Practice%20Questions.ipynb) also [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/00-Python-Collections/01.04%20Practice%20Questions.ipynb)  
+* 04 - Some Practice Problems: [Notebook](https://github.com/shauryashaurya/learn-data-munging/blob/main/00-Python-Collections/01.04%20Practice%20Questions.ipynb) also [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/00-Python-Collections/01.04%20Practice%20Questions.ipynb)
+   
 * 045 - Practice Problems on List Comprehensions: [Notebook](https://github.com/shauryashaurya/learn-data-munging/blob/main/00-Python-Collections/01.045%20Practice-List-Comprehensions.ipynb) also [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/00-Python-Collections/01.045%20Practice-List-Comprehensions.ipynb)  
   
     
 ### 01 [Numpy](https://github.com/shauryashaurya/learn-data-munging/tree/main/01-Numpy)    
   
-- [TODO]  
+* Getting Started [Notebook](https://github.com/shauryashaurya/learn-data-munging/blob/main/01-Numpy/01.01-Getting-Started-With-Numpy.ipynb) also [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/01-Numpy/01.01-Getting-Started-With-Numpy.ipynb)   
 	  
 ### 02 [Pandas](https://github.com/shauryashaurya/learn-data-munging/tree/main/02-Pandas)    
   
-- [02.*002* 10+ minutes to pandas](https://github.com/shauryashaurya/learn-data-munging/blob/main/02-Pandas/02.001%20-%2010%2B%20minutes%20to%20pandas.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/02-Pandas/02.001%20-%2010%2B%20minutes%20to%20pandas.ipynb) 
+* 01 - 10+ minutes to Pandas: [Notebook](https://github.com/shauryashaurya/learn-data-munging/blob/main/02-Pandas/01.01-10%2B-minutes-to-Pandas.ipynb) also [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/02-Pandas/01.01-10%2B-minutes-to-Pandas.ipynb)
+    
+* 02 - Wrangling MovieLens with Pandas: [Notebook](https://github.com/shauryashaurya/learn-data-munging/blob/main/02-Pandas/02.01-Data-Wrangling-with-MovieLens-and-Pandas.ipynb) also [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/02-Pandas/02.01-Data-Wrangling-with-MovieLens-and-Pandas.ipynb)
+    
 - [TODO: Indexing and Selecting Data]
 - [TODO: Pivot Tables]
 - [TODO: Grouping, Windowing]
@@ -48,7 +52,14 @@ This set of notebooks works through examples of how some pretty sophisticated da
 * 03 [10+ minutes to pyspark](https://github.com/shauryashaurya/learn-data-munging/blob/main/03-Spark/001.03%2010%2B%20Minutes%20to%20PySpark.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/03-Spark/001.03%2010%2B%20Minutes%20to%20PySpark.ipynb)  
 	  
 #### 02 - A set of notebooks exploring data wrangling in depth using the MovieLens dataset
-* [Part 01: Overview, Starting Spark and Loading the data](https://github.com/shauryashaurya/learn-data-munging/blob/main/03-Spark/002.01-Analyze-MovieLens-using-PySpark.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/03-Spark/002.01-Analyze-MovieLens-using-PySpark.ipynb) 
+* [Part 01: Overview, Starting Spark and Loading the data](https://github.com/shauryashaurya/learn-data-munging/blob/main/03-Spark/002.01-Analyze-MovieLens-using-PySpark.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/03-Spark/002.01-Analyze-MovieLens-using-PySpark.ipynb)
+    
+* [Part 02: Data Analysis basics using tags.csv from the MovieLens dataset](https://github.com/shauryashaurya/learn-data-munging/blob/main/03-Spark/002.02-Analyze-MovieLens-using-PySpark.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/03-Spark/002.02-Analyze-MovieLens-using-PySpark.ipynb)
+    
+* [Part 03: Data Analysis basics using movies.csv from the MovieLens dataset](https://github.com/shauryashaurya/learn-data-munging/blob/main/03-Spark/002.03-Analyze-MovieLens-using-PySpark.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/03-Spark/002.03-Analyze-MovieLens-using-PySpark.ipynb)
+    
+* [Part 04: Data Analysis using ratings.csv from the MovieLens dataset](https://github.com/shauryashaurya/learn-data-munging/blob/main/03-Spark/002.04-Analyze-MovieLens-using-PySpark.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/03-Spark/002.04-Analyze-MovieLens-using-PySpark.ipynb)
+    
     
 ### 04 [Dask](https://github.com/shauryashaurya/learn-data-munging/tree/main/04-Dask)    
     
@@ -59,19 +70,19 @@ This set of notebooks works through examples of how some pretty sophisticated da
 ### 05 [Polars](https://github.com/shauryashaurya/learn-data-munging/tree/main/05-Polars)    
     
 - [WIP] 05.*001* [10+ minutes to polars.ipynb](https://github.com/shauryashaurya/learn-data-munging/blob/main/05-Polars/05.001%20-%2010%2B%20minutes%20to%20polars.ipynb), also on [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/05-Polars/05.001%20-%2010%2B%20minutes%20to%20polars.ipynb) 
-- [TODO]
+- [WIP]
   	  
 ### 06 [Apache Arrow and DataFusion](https://github.com/shauryashaurya/learn-data-munging/tree/main/06-Arrow-DataFusion-Ballista)    
 - [WIP] 06.*001* [10+ minutes to pyArrow and DataFusion.ipynb](https://github.com/shauryashaurya/learn-data-munging/blob/main/06-Arrow-DataFusion-Ballista/06.001%20-%2010%2B%20minutes%20to%20pyArrow%20and%20DataFusion.ipynb), also on [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/06-Arrow-DataFusion-Ballista/06.001%20-%2010%2B%20minutes%20to%20pyArrow%20and%20DataFusion.ipynb)	 
-- [TODO]  
+- [WIP]  
     
 ### 07 [Ray](https://github.com/shauryashaurya/learn-data-munging/tree/main/07-Ray)    
     
-- [TODO]  
+- [WIP]  
     
 ### 99 Static: The TPC Benchmark Queries     
     
-- [TODO] Also, question: can I just put the queries here? like is that ok? or will I get a slap on my wrist? Lemme try. 
+- [WIP] Also, question: can I just put the queries here? like is that ok? or will I get a slap on my wrist? Lemme try. 
   
   
 # References  
