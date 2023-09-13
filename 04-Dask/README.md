@@ -1,7 +1,5 @@
 # Notebooks exploring data analysis using NumPy    
-
-Uses the [small MovieLens dataset](https://grouplens.org/datasets/movielens/#:~:text=Small%3A%20100%2C000%20ratings%20and%203%2C600%20tag%20applications). 
-
+  
 ## Contents
 
 ### 01 - 10+ minutes to Dask
