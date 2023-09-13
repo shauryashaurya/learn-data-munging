@@ -62,7 +62,6 @@ This set of notebooks works through examples of how some pretty sophisticated da
 - [TODO]
   	  
 ### 06 [Apache Arrow and DataFusion](https://github.com/shauryashaurya/learn-data-munging/tree/main/06-Arrow-DataFusion-Ballista)    
-      
 - [WIP] 06.*001* [10+ minutes to pyArrow and DataFusion.ipynb](https://github.com/shauryashaurya/learn-data-munging/blob/main/06-Arrow-DataFusion-Ballista/06.001%20-%2010%2B%20minutes%20to%20pyArrow%20and%20DataFusion.ipynb), also on [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/06-Arrow-DataFusion-Ballista/06.001%20-%2010%2B%20minutes%20to%20pyArrow%20and%20DataFusion.ipynb)	 
 - [TODO]  
     
