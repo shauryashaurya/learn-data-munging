@@ -198,6 +198,7 @@ Kitchen sink of all other references I've found useful (or wonderful). There's s
 * [Time Series Database Lectures (Fall 2017)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjY0GMWN4X8FIkYNfiu8_Wl9)
 * [The Databaseology Lectures (Fall 2015)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjakeQR57ZdN5slUu2oPUr1Y)
 * [Seven Databases in Seven Weeks (Fall 2014)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjY2xvwxuKjZT5qFH0sQga8_)
+* [This explanation for List Comprehensions](https://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/)
     
     
 .    
