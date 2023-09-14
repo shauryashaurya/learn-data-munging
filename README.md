@@ -136,6 +136,7 @@ The approach is different: Dask focuses on Task scheduling vs Spark's Map-Reduce
 * [Talks and tutorials page](https://docs.dask.org/en/latest/presentations.html)  
 * [The Dask tutorial notebooks](https://github.com/dask/dask-tutorial)
 * [The SciPy 2022 tutorial talk](https://www.youtube.com/watch?v=J0NcbvkYPoE)
+* [High level performance of Pandas, Dask, Spark, and Arrow - from Dask Working Notes Blog](https://blog.dask.org/2018/08/28/dataframe-performance-high-level)
     
      
 #### 05 [Polars](https://www.pola.rs/)
