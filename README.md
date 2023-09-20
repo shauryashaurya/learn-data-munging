@@ -173,8 +173,7 @@ Datasets we use:
 * [Wikipedia Movie Plots](https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-plots)  
 * [CMU Movie Summary Corpus](https://paperswithcode.com/dataset/cmu-movie-summary-corpus) also [here](http://www.cs.cmu.edu/~ark/personas/)
 * [MoviePlotEvents (CMU Movie Summary Corpus with Events)](https://paperswithcode.com/dataset/movieplotevents) also [here](https://www.dropbox.com/s/i5dsk92735jpunf/EventRepresentationDataRelease.zip?dl=0)
-* [DuckDB](https://duckdb.org/), [GitHub](https://github.com/duckdb/duckdb)
-* [FoundationDB](https://www.foundationdb.org/), [GitHub](https://github.com/apple/foundationdb)
+  
     
     
 There's a lot of interesting (interesting to me) tools, datasets and papers out there.   
@@ -186,6 +185,8 @@ When there's time or need, we'll get to them as well.
 * [Mars](https://docs.pymars.org/en/latest/) and [Project Mars on GitHub](https://github.com/mars-project/mars)
 * [Modin](https://github.com/modin-project/modin)  
 * [Polars](https://www.pola.rs/). Also, [Polars Github Repo](https://github.com/pola-rs/polars/)  
+* [DuckDB](https://duckdb.org/), [GitHub](https://github.com/duckdb/duckdb)  
+* [FoundationDB](https://www.foundationdb.org/), [GitHub](https://github.com/apple/foundationdb)  
 * [Danfo.js - pandas like dataframes in JavaScript](https://danfo.jsdata.org/)
 * [Orchest](https://www.orchest.io/) for data pipelines - maybe?  Update: as of Jly 2023, Nah!
 * I think there's something to be said about leveraging TPC benchmarks - we'll attend to this in due time. There's got to be a .md readme in this repo that'll list all the queries anyway. Yea, lemme do that soonish.
