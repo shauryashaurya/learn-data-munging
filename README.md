@@ -173,6 +173,8 @@ Datasets we use:
 * [Wikipedia Movie Plots](https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-plots)  
 * [CMU Movie Summary Corpus](https://paperswithcode.com/dataset/cmu-movie-summary-corpus) also [here](http://www.cs.cmu.edu/~ark/personas/)
 * [MoviePlotEvents (CMU Movie Summary Corpus with Events)](https://paperswithcode.com/dataset/movieplotevents) also [here](https://www.dropbox.com/s/i5dsk92735jpunf/EventRepresentationDataRelease.zip?dl=0)
+* [DuckDB](https://duckdb.org/), [GitHub](https://github.com/duckdb/duckdb)
+* [FoundationDB](https://www.foundationdb.org/), [GitHub](https://github.com/apple/foundationdb)
     
     
 There's a lot of interesting (interesting to me) tools, datasets and papers out there.   
