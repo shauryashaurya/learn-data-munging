@@ -136,7 +136,12 @@ The approach is different: Dask focuses on Task scheduling vs Spark's Map-Reduce
 * [Talks and tutorials page](https://docs.dask.org/en/latest/presentations.html)  
 * [The Dask tutorial notebooks](https://github.com/dask/dask-tutorial)
 * [The SciPy 2022 tutorial talk](https://www.youtube.com/watch?v=J0NcbvkYPoE)
+* [Journey of a Task](https://distributed.dask.org/en/stable/journey.html)  
 * [High level performance of Pandas, Dask, Spark, and Arrow - from Dask Working Notes Blog](https://blog.dask.org/2018/08/28/dataframe-performance-high-level)
+* [Dask distributed](https://distributed.dask.org/en/stable/foundations.html)
+* [Dask Task Graphs](https://docs.dask.org/en/stable/graphs.html)
+* [Tornado - used by Dask distributed](https://www.tornadoweb.org/en/latest/index.html)
+* For some Dask exercises, we may need [GraphViz](https://graphviz.org/) or [Cytoscape](https://cytoscape.org/download.html) and [ipycytoscape](https://ipycytoscape.readthedocs.io/en/latest/installing.html)
     
      
 #### 05 [Polars](https://www.pola.rs/)
