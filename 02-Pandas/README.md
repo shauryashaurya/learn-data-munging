@@ -1,5 +1,11 @@
-# Notebooks exploring data analysis using **pandas**    
+# Data Wrangling with **Pandas**    
 
+<html> 
+	<img src="./../images/data_munging_01-Numpy.png" width="95%" align="center" alt="Data Wrangling in Core Python, Image © Shaurya Agarwal, created using Dalle and GIMP" />  
+	<p font-size="8px">Data Wrangling with Core Python</p> 
+	<br/>
+</html>
+  
 Uses the [small MovieLens dataset](https://grouplens.org/datasets/movielens/#:~:text=Small%3A%20100%2C000%20ratings%20and%203%2C600%20tag%20applications). 
 
 ### 02 [Pandas](https://github.com/shauryashaurya/learn-data-munging/tree/main/02-Pandas)    
