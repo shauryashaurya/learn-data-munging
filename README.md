@@ -1,10 +1,10 @@
 # Data Munging Using **\*X\*** in Python, Rust & Julia  
   
-Data Engineering Workshops on some of the more popular libraries, frameworks and tech circa 2022-2023.  
+Data Engineering Workshops on some of the more popular libraries, frameworks and tech circa 2023-2024.  
   
 <figure>  
  <img src="./images/data_munging_02.png" width="95%" align="center" alt="Data Wrangling with Python, Rust and Julia"/>  
- <figcaption size="8">Data Engineers working with Python, Rust and Julia</figcaption>
+ <figcaption><font size="8"><p>Data Engineers working with Python, Rust and Julia</p><br /></font><font size="6"><p>Image © Shaurya Agarwal, created using Dalle and GIMP</p></font></figcaption>
 </figure>
   
 
