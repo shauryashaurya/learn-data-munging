@@ -1,8 +1,8 @@
 # Data Wrangling with **Pandas**    
 
 <html> 
-	<img src="./../images/data_munging_01-Numpy.png" width="95%" align="center" alt="Data Wrangling in Core Python, Image © Shaurya Agarwal, created using Dalle and GIMP" />  
-	<p font-size="8px">Data Wrangling with Core Python</p> 
+	<img src="./../images/data_munging_02-Pandas.png" width="95%" align="center" alt="Data Wrangling in Core Python, Image © Shaurya Agarwal, created using Dalle and GIMP" />  
+	<p font-size="8px">Data Wrangling with Pandas</p> 
 	<br/>
 </html>
   
