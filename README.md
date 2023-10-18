@@ -3,8 +3,8 @@
 Data Engineering Workshops on some of the more popular libraries, frameworks and tech circa 2022-2023.  
   
 <figure>  
- <img src="./images/data_munging_02.png" width="95%" align="center" alt="Data Wrangling with Python"/>  
- <figcaption>Data Munging with Python, Rust and Julia</figcaption>
+ <img src="./images/data_munging_02.png" width="95%" align="center" alt="Data Wrangling with Python, Rust and Julia"/>  
+ <figcaption size="8">Data Engineers working with Python, Rust and Julia</figcaption>
 </figure>
   
 
@@ -12,9 +12,6 @@ Data Engineering Workshops on some of the more popular libraries, frameworks and
 ---
   
 # Notebooks  
-
-Note - the *"10+ minutes to XX"* notebooks are just references, not to be run as actual workshop material. These are there to carry toy examples that "getting started" pages for XX carry. I have tried to ensure there's a 10+ minutes notebook for each data engineering library/framework considered here. While it may be interesting to go through these to quickly refresh the syntax and other idiosyncracies, the actual data munging happens in other notebooks.  
-  
   
 ### 00 Python Collections  
   
@@ -68,6 +65,10 @@ This set of notebooks works through examples of how some pretty sophisticated da
 ### 99 Static: The TPC Benchmark Queries     
     
 - [WIP] 
+  
+### Note  
+  
+The *"10+ minutes to XX"* notebooks are just references, not to be run as actual workshop material. These are there to carry toy examples that "getting started" pages for XX carry. I have tried to ensure there's a 10+ minutes notebook for each data engineering library/framework considered here. While it may be interesting to go through these to quickly refresh the syntax and other idiosyncracies, the actual data munging happens in other notebooks.   
   
   
 # References  
