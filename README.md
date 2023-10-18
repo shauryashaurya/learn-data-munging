@@ -2,7 +2,7 @@
   
 Data Engineering Workshops on some of the more popular libraries, frameworks and tech circa 2022-2023.  
   
-<img src="./images/data_munging_02.png" width="80%" align="center" />  
+<img src="./images/data_munging_02.png" width="95%" align="center" />  
 
 ---
   
