@@ -2,11 +2,9 @@
   
 Data Engineering Workshops on some of the more popular libraries, frameworks and tech circa 2023-2024.  
   
-<figure>  
- <img src="./images/data_munging_02.png" width="95%" align="center" alt="Data Wrangling with Python, Rust and Julia"/>  
- <font size="6"><figcaption><p>Data Engineers working with Python, Rust and Julia</p><p>Image © Shaurya Agarwal, created using Dalle and GIMP</p></figcaption></font>
-</figure>
-  
+<img src="./images/data_munging_02.png" width="95%" align="center" alt="Data Wrangling with Python, Rust and Julia"/>  
+####### Data Engineers working with Python, Rust and Julia  
+######## Image © Shaurya Agarwal, created using Dalle and GIMP  
 
 
 ---
