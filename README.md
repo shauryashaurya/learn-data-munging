@@ -4,7 +4,7 @@ Data Engineering Workshops on some of the more popular libraries, frameworks and
   
 <figure>  
  <img src="./images/data_munging_02.png" width="95%" align="center" alt="Data Wrangling with Python, Rust and Julia"/>  
- <figcaption><font size="8"><p>Data Engineers working with Python, Rust and Julia</p><br /></font><font size="6"><p>Image © Shaurya Agarwal, created using Dalle and GIMP</p></font></figcaption>
+ <font size="6"><figcaption><p>Data Engineers working with Python, Rust and Julia</p><p>Image © Shaurya Agarwal, created using Dalle and GIMP</p></figcaption></font>
 </figure>
   
 
