@@ -1,4 +1,9 @@
-# Notebooks exploring PySpark with a focus on data wrangling (aka data munging)  
+# Distributed Data wrangling with Spark
+
+<html> 
+	<img src="./../images/data_munging_03-Spark.png" width="95%" align="center" alt="Data Wrangling with Python and PySpark" />  
+	<p font-size="8px">Distributed Data wrangling with Spark</p> 
+</html>   
   
 
 ### 03 [Spark](https://github.com/shauryashaurya/learn-data-munging/tree/main/03-Spark)  
