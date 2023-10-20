@@ -1,7 +1,7 @@
 # Data Munging Using **\*X\***  - Outline for PyCon India 2023
   
 <html> 
-	<img src="./images/data_munging_pycon_with_text.png" width="95%" align="center" alt="Data Wrangling with Python, A Workshop for PyCon India 2023" />  
+	<img src="./../images/data_munging_pycon_with_text.png" width="95%" align="center" alt="Data Wrangling with Python, A Workshop for PyCon India 2023" />  
 	<p font-size="8px">Data Wrangling with Python, A Workshop for PyCon India 2023</p> 
 </html>
 
