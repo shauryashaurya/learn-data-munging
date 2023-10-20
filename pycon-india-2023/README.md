@@ -1,5 +1,10 @@
 # Data Munging Using **\*X\***  - Outline for PyCon India 2023
   
+<html> 
+	<img src="./images/data_munging_pycon_with_text.png" width="95%" align="center" alt="Data Wrangling with Python, A Workshop for PyCon India 2023" />  
+	<p font-size="8px">Data Wrangling with Python, A Workshop for PyCon India 2023</p> 
+</html>
+
 This page lists the notebooks we will cover during [my workshop in PyCon India 2023](https://in.pycon.org/cfp/pycon-india-2023/proposals/all-them-data-engines-pandas-spark-dask-polars-and-more-data-munging-with-python-circa-2023~eZq5d/).  
 
 There are other notebooks in the repo - these will mature over time. These are typically a part of a longer engagement (like a 3 to 5 day data engineering boot camp).  
