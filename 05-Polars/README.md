@@ -1,4 +1,10 @@
-# Notebooks exploring data analysis using Polars    
+# Data Wrangling with Polars    
+  
+<html> 
+	<img src="./../images/data_munging_05-Polars.png" width="95%" align="center" alt="Data Wrangling with Polars" />  
+	<p font-size="8px">Data Wrangling with Polars</p> 
+</html>   
+    
 
 Uses the [small MovieLens dataset](https://grouplens.org/datasets/movielens/#:~:text=Small%3A%20100%2C000%20ratings%20and%203%2C600%20tag%20applications). 
 
