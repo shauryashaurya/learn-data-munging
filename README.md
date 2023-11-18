@@ -182,7 +182,7 @@ When there's time or need, we'll get to them as well.
 * [Papers and Data - Scifi TV Shows (Scifi TV Show Plot Summaries & Events)](https://paperswithcode.com/dataset/scifi-tv-plots)    
 * [Papers and Data - Story Cloze](https://paperswithcode.com/dataset/storycloze)   
 * [State Of The Art on paperswithcode (](https://paperswithcode.com/sota)  
-* [Only cause LMMs have been trending for a while - A Survey of Large Language Models](https://paperswithcode.com/paper/a-survey-of-large-language-models)  
+* [Only cause LLMs have been trending for a while - A Survey of Large Language Models](https://paperswithcode.com/paper/a-survey-of-large-language-models)  
 * [SST (Stanford Sentiment Treebank)](https://paperswithcode.com/dataset/sst), [also](https://nlp.stanford.edu/sentiment/)
 * ...    
     
