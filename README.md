@@ -176,7 +176,7 @@ When there's time or need, we'll get to them as well.
 * [DuckDB](https://duckdb.org/), [GitHub](https://github.com/duckdb/duckdb)  
 * [FoundationDB](https://www.foundationdb.org/), [GitHub](https://github.com/apple/foundationdb)  
 * [Danfo.js - pandas like dataframes in JavaScript](https://danfo.jsdata.org/)
-* [Orchest](https://www.orchest.io/) for data pipelines - maybe?  Update: as of Jly 2023, Nah!
+* [Velox](https://engineering.fb.com/2023/03/09/open-source/velox-open-source-execution-engine/) also [GitHub](https://github.com/facebookincubator/velox) and [Gluten](https://github.com/oap-project/gluten/tree/main)
 * I think there's something to be said about leveraging TPC benchmarks - we'll attend to this in due time. There's got to be a .md readme in this repo that'll list all the queries anyway. Yea, lemme do that soonish.
 * Is there value in comparing formats? (Parquet)[https://parquet.apache.org/docs/], (Zarr)[https://zarr.readthedocs.io/en/stable/tutorial.html] etc.?
 * [Papers and Data - Scifi TV Shows (Scifi TV Show Plot Summaries & Events)](https://paperswithcode.com/dataset/scifi-tv-plots)    
