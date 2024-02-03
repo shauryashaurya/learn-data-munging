@@ -21,19 +21,6 @@ Click on the image below to watch the full video from the PyData Global 2023 ses
 [![Click on the image below to watch the full video from the PyData Global 2023 session](https://img.youtube.com/vi/AHgio9PG5Cw/0.jpg)](https://youtu.be/AHgio9PG5Cw)  
   
 <br />  
-<html>
-	<body>
-		<p font-size="8px">N.B.  </p>
-		<p font-size="8px">
-			<ul>
-				<li>Also, <code>open in new window</code> doesn&#39;t work just yet per <a href="https://stackoverflow.com/questions/41915571/open-link-in-new-tab-with-github-markdown-using-target-blank">this stackoverflow discussion</a>, the <a href="https://kramdown.gettalong.org/">Kramdown</a> solution of adding <code>{:target=&quot;_blank&quot;}</code> didn&#39;t work either. So the best bet is to use ctrl+click (Windows) or cmd+click (Mac) to open links in a new window and not lose this page.</li>
-				<li>Seems like it&#39;s not possible to embed YouTube vidoes in GitHub markdown just yet (they say &#39;security&#39; etc.), <a href="https://stackoverflow.com/questions/11804820/how-can-i-embed-a-youtube-video-on-github-wiki-pages">ref1</a>, <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#youtube-videos">ref2</a>, so just embedding a clickable preview instead.</li>
-				<li>Editing custom CSS for these pages will have to be a project for another day...</li>
-			</ul>
-		</p>
-	</body>
-</html>
-
   
 ---
 ### 00 Python Collections  
@@ -72,5 +59,21 @@ This set of notebooks works through examples of how some pretty sophisticated da
   
   	  
   
+## Other notes  
+#### Formatting  
+I tried multiple variations to embed the PyData session YouTube video here. Seems like there are multiple limitations. After several trial-and-error attempts, I need to park this for a later date. 
+<html>
+	<body>
+		<p font-size="8px">N.B.  </p>
+		<p font-size="8px">
+			<ul>
+				<li><code>adding <p font-size="8px"></code> to any .md page does&#39;t seem to work as of Feb 2024, when the page is viewed in GitHub. The Jekyll page can support custom CSS, but that's not my focus for now, I want to continue adding more data engines to the repo. So will defer this task to some future state (or ask the community for a PR).</li>  
+				<li><code>open in new window</code> doesn&#39;t work just yet per <a href="https://stackoverflow.com/questions/41915571/open-link-in-new-tab-with-github-markdown-using-target-blank">this stackoverflow discussion</a>, the <a href="https://kramdown.gettalong.org/">Kramdown</a> solution of adding <code>{:target=&quot;_blank&quot;}</code> didn&#39;t work either. So the best bet is to use ctrl+click (Windows) or cmd+click (Mac) to open links in a new window and not lose this page.</li>
+				<li>Seems like it&#39;s not possible to embed YouTube vidoes in GitHub markdown just yet (they say &#39;security&#39; etc.), <a href="https://stackoverflow.com/questions/11804820/how-can-i-embed-a-youtube-video-on-github-wiki-pages">ref1</a>, <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#youtube-videos">ref2</a>, so just embedding a clickable preview instead.</li>
+				<li>Editing custom CSS for these pages will have to be a project for another day...</li>
+			</ul>
+		</p>
+	</body>
+</html>
   
 .
