@@ -16,7 +16,28 @@ These are typically a part of a longer engagement (like a 3 to 5 day data engine
 ## Video from the PyData Global 2023 session  
   
 <html> 
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/AHgio9PG5Cw?si=BrRasiKJlsMfFKxl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	<div class="youtube-PyData-Global-2023-session-container">
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/AHgio9PG5Cw?si=BrRasiKJlsMfFKxl" title="PyData Global 2023 session, Shaurya Agarwal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	</div>
+	<style>
+		.youtube-PyData-Global-2023-session-container {
+			position: relative;
+			padding-bottom: 56.25%;
+			height: 0;
+			overflow: hidden;
+			max-width: 100%;
+		}
+		.youtube-PyData-Global-2023-session-container iframe,
+		.youtube-PyData-Global-2023-session-container object,
+		.youtube-PyData-Global-2023-session-container embed {
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+		}
+	</style>
+	
 </html>  
   
 ---
