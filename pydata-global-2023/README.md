@@ -5,7 +5,13 @@
 	<p font-size="8px">Data Wrangling with Python, A Tutorial for PyData Global 2023</p> 
 </html>
 
-This page lists the notebooks we will cover during [my tutorial in PyData Global 2023](https://youtu.be/AHgio9PG5Cw){:target="_blank"}.  
+This page lists the notebooks we will cover during [my tutorial in PyData Global 2023 ](https://youtu.be/AHgio9PG5Cw).  
+
+<html>
+	<p font-size="8px">
+		<em>use ctrl+click (Windows) or cmd+click (Mac) to open links in a new window</em>
+	</p> 
+</html>
 
 There are other notebooks in the repo - these will mature over time.  
 These are typically a part of a longer engagement (like a 3 to 5 day data engineering boot camp).  
@@ -15,9 +21,24 @@ These are typically a part of a longer engagement (like a 3 to 5 day data engine
 ---  
 ## Video from the PyData Global 2023 session  
   
-[![Video from the PyData Global 2023 session](https://img.youtube.com/vi/AHgio9PG5Cw/3.jpg)](https://youtu.be/AHgio9PG5Cw){:target="_blank"}  
+[![Video from the PyData Global 2023 session](https://img.youtube.com/vi/AHgio9PG5Cw/3.jpg)](https://youtu.be/AHgio9PG5Cw)  
   
-N.B. Seems like it's not possible to embed YouTube vidoes in GitHub markdown just yet (they say 'security' etc.), [ref1](https://stackoverflow.com/questions/11804820/how-can-i-embed-a-youtube-video-on-github-wiki-pages), [ref2](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#youtube-videos), so just embedding a clickable preview instead.
+<html>
+	<head>
+		<style> body {
+					color: black;
+					font-size: 8px
+				}
+		</style>
+	</head>
+	<body>
+		<p>N.B.  </p>
+		<ul>
+			<li>Seems like it&#39;s not possible to embed YouTube vidoes in GitHub markdown just yet (they say &#39;security&#39; etc.), <a href="https://stackoverflow.com/questions/11804820/how-can-i-embed-a-youtube-video-on-github-wiki-pages">ref1</a>, <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#youtube-videos">ref2</a>, so just embedding a clickable preview instead.</li>
+			<li>Also, <code>open in new window</code> doesn&#39;t work just yet per <a href="https://stackoverflow.com/questions/41915571/open-link-in-new-tab-with-github-markdown-using-target-blank">this stackoverflow discussion</a>, the <a href="https://kramdown.gettalong.org/">Kramdown</a> solution of adding <code>{:target=&quot;_blank&quot;}</code> didn&#39;t work either. So the best bet is to use ctrl+click (Windows) or cmd+click (Mac) to open links in a new window and not lose this page.</li>
+		</ul>
+	</body>
+</html>
   
 ---
 ### 00 Python Collections  
