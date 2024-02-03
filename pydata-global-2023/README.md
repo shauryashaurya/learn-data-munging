@@ -13,9 +13,13 @@ These are typically a part of a longer engagement (like a 3 to 5 day data engine
 **BTW - Big Thank you [PyData](https://pydata.org/global2023/schedule#2023-12-07:~:text=Shaurya%20Agarwal)! :)**
   
 ---  
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AHgio9PG5Cw?si=BrRasiKJlsMfFKxl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+## Video from the PyData Global 2023 session  
   
+<html> 
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/AHgio9PG5Cw?si=BrRasiKJlsMfFKxl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</html>  
+  
+---
 ### 00 Python Collections  
   
 This set of notebooks works through examples of how some pretty sophisticated data engineering can be done using Python Collections, Itertools and Functools. It uses the [small MovieLens dataset](https://grouplens.org/datasets/movielens/#:~:text=Small%3A%20100%2C000%20ratings%20and%203%2C600%20tag%20applications). 
