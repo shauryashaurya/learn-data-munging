@@ -14,7 +14,7 @@ These are typically a part of a longer engagement (like a 3 to 5 day data engine
   
 ---  
 
-## [Video for the PyData Global 2023 Session on YouTube](https://youtu.be/AHgio9PG5Cw?si=CFpPG4SZ1vTWrmNS)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AHgio9PG5Cw?si=BrRasiKJlsMfFKxl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   
 ### 00 Python Collections  
   
