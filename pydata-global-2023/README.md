@@ -15,7 +15,9 @@ These are typically a part of a longer engagement (like a 3 to 5 day data engine
 ---  
 ## Video from the PyData Global 2023 session  
   
-{% include session-youtube.html id="AHgio9PG5Cw" %}
+[![Video from the PyData Global 2023 session](https://img.youtube.com/vi/AHgio9PG5Cw/3.jpg)](https://youtu.be/AHgio9PG5Cw)  
+  
+N.B. Seems like it's not possible to embed YouTube vidoes in GitHub markdown just yet (they say 'security' etc.), [ref1](https://stackoverflow.com/questions/11804820/how-can-i-embed-a-youtube-video-on-github-wiki-pages), [ref2](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#youtube-videos), so just embedding a clickable preview instead.
   
 ---
 ### 00 Python Collections  
