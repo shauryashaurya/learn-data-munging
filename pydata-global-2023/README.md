@@ -5,7 +5,7 @@
 	<p font-size="8px">Data Wrangling with Python, A Tutorial for PyData Global 2023</p> 
 </html>
 
-This page lists the notebooks we will cover during [my tutorial in PyData Global 2023](https://youtu.be/AHgio9PG5Cw?si=CFpPG4SZ1vTWrmNS).  
+This page lists the notebooks we will cover during [my tutorial in PyData Global 2023](https://youtu.be/AHgio9PG5Cw).  
 
 There are other notebooks in the repo - these will mature over time.  
 These are typically a part of a longer engagement (like a 3 to 5 day data engineering boot camp).  
