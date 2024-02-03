@@ -9,7 +9,7 @@ This page lists the notebooks we will cover during [my tutorial in PyData Global
 
 <html>
 	<p font-size="8px">
-		<em>use ctrl+click (Windows) or cmd+click (Mac) to open links in a new window</em>
+		<t/><em>use ctrl+click (Windows) or cmd+click (Mac) to open links in a new window</em>
 	</p> 
 </html>
 
