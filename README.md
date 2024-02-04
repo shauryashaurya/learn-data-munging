@@ -136,13 +136,13 @@ The approach is different: Dask focuses on Task scheduling vs Spark's Map-Reduce
     
 * [Apache Arrow Official Native Rust Implementation](https://docs.rs/crate/arrow/latest)
 * [pyArrow](https://arrow.apache.org/docs/python/)
-* [Ballista on GitHub](https://github.com/apache/arrow-ballista)
 * [Apache Arrow Python Cookbook](https://arrow.apache.org/cookbook/py/)
 * [DataFusion User Guide](https://arrow.apache.org/datafusion/user-guide/introduction.html)
 * [Arrow DataFusion Python](https://github.com/apache/arrow-datafusion-python)
+* [DataFusion Roadmap Epics](https://github.com/apache/arrow-datafusion/issues?q=is%3Aissue+is%3Aopen+epic)
+* [Ballista on GitHub](https://github.com/apache/arrow-ballista)
 * [Arrow NumPy Integration](https://arrow.apache.org/docs/python/numpy.html)
 * [Arrow Pandas Integration](https://arrow.apache.org/docs/python/pandas.html)
-* [DataFusion Roadmap Epics](https://github.com/apache/arrow-datafusion/issues?q=is%3Aissue+is%3Aopen+epic)
     
     
 #### 07 [Ray](https://www.ray.io/)  
@@ -192,8 +192,9 @@ When there's time or need, we'll get to them as well.
 Kitchen sink of all other references I've found useful (or wonderful). There's so much to learn I tell you!  
 * [How Query Engines Work](https://howqueryengineswork.com/00-introduction.html)
 * Carnegie Mellon's Advanced Database Systems Playlist: 
-	* [Spring 2020](https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)
-	* [Spring 2023 session](https://youtube.com/playlist?list=PLSE8ODhjZXjYzlLMbX3cR0sxWnRM7CLFn), also [CMU 15-721 (2023)](https://15721.courses.cs.cmu.edu/spring2023/schedule.html)
+	* [Spring **2020**](https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)
+	* [Spring **2023**](https://youtube.com/playlist?list=PLSE8ODhjZXjYzlLMbX3cR0sxWnRM7CLFn), also [CMU 15-721 (2023)](https://15721.courses.cs.cmu.edu/spring2023/schedule.html)
+	* [CMU Advanced Database Systems (15-721 / Spring **2024**)](https://15721.courses.cs.cmu.edu/spring2024/schedule.html), [YouTube Playlist](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYa_zX-KeMJui7pcN1rIaIJ)
 * Go here if the advanced database systems feels hard - [CMU Intro to Database Systems (15-445/645 - Fall 2022)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf), also [course site](https://15445.courses.cs.cmu.edu/fall2022/schedule.html)
 * [Database Query Optimizers](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYPyrUG_YxqYPS7wjWY6gYN)
 * [¡Databases! – A Database Seminar Series (Fall 2022)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjZKp-oX_75aBnznulk7nubu), also on [CMU](https://db.cs.cmu.edu/seminar2022/)
