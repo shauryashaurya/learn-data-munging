@@ -19,15 +19,15 @@
   
 [This is not obvious](https://github.com/dask/dask/issues/6201), so putting a line here, just in case you need it:   
   
-	```shell  
-	pip install --upgrade --no-cache-dir "dask[complete]"   
-	```   
+```shell
+pip install --upgrade --no-cache-dir "dask[complete]"
+```   
    	
 or     
    
-	```shell  
-	pip install --upgrade --no-cache-dir dask[complete]  
-	```    
+```shell
+pip install --upgrade --no-cache-dir dask[complete]  
+```    
 	  
 	  
 .
