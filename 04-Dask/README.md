@@ -13,7 +13,9 @@
 
     
 *Upgrading all of Dask*  
-[This is not obvious](https://github.com/dask/dask/issues/6201), so putting a line here, just in case you need it:  
+  
+[This is not obvious](https://github.com/dask/dask/issues/6201), so putting a line here, just in case you need it:   
+  
 	``` pip install --upgrade --no-cache-dir "dask[complete]"```    
 or     
 	``` pip install --upgrade --no-cache-dir dask[complete]```    
