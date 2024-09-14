@@ -160,7 +160,9 @@ Datasets we use:
 * [MovieLens 25M Dataset](https://grouplens.org/datasets/movielens/25m/)
 * [Wikipedia Movie Plots](https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-plots)  
 * [CMU Movie Summary Corpus](https://paperswithcode.com/dataset/cmu-movie-summary-corpus) also [here](http://www.cs.cmu.edu/~ark/personas/)
-* [MoviePlotEvents (CMU Movie Summary Corpus with Events)](https://paperswithcode.com/dataset/movieplotevents) also [here](https://www.dropbox.com/s/i5dsk92735jpunf/EventRepresentationDataRelease.zip?dl=0)
+* [MoviePlotEvents (CMU Movie Summary Corpus with Events)](https://paperswithcode.com/dataset/movieplotevents) also [here](https://www.dropbox.com/s/i5dsk92735jpunf/EventRepresentationDataRelease.zip?dl=0)  
+* [Netflix Prize Dataset](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data)
+* [Netflix data with 26+ joined attributes](https://www.kaggle.com/datasets/ashishgup/netflix-rotten-tomatoes-metacritic-imdb)  
   
     
     
