@@ -1,8 +1,8 @@
-# GitHub Markdown ideosyncracies and fun/unfun applesauce  
+# GitHub Markdown idiosyncrasies and fun/unfun applesauce  
 
 <html> 
 	<img src="./../images/GitHubMarkdownIdiosyncracies.png" width="95%" align="center" alt="GitHub Markdown ideosyncracies and fun/unfun applesauce..." />  
-	<p font-size="8px">Distributed Data wrangling with Dask</p> 
+	<p font-size="8px">GitHub Markdown idiosyncrasies and fun/unfun applesauce  </p> 
 </html>   
 
 
