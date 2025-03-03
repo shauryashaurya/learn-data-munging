@@ -1,24 +1,30 @@
-# Distributed Data wrangling with Spark
-
-<html> 
-	<img src="./../images/data_munging_03-Spark.png" width="95%" align="center" alt="Data Wrangling with Python and PySpark" />  
-	<p font-size="8px">Distributed Data wrangling with Spark</p> 
-</html>   
-  
-
-### 03 [Spark](https://github.com/shauryashaurya/learn-data-munging/tree/main/03-Spark)  
-    
-#### 01 - Toy introduction to the basics
-* 01 - Setting up Spark locally (on Windows): [Notebook](https://github.com/shauryashaurya/learn-data-munging/blob/main/03-Spark/001.01%20-%20Setup%20and%20suchlike.ipynb) also [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/03-Spark/001.01%20-%20Setup%20and%20suchlike.ipynb)  
-  
-* 02 - How to run Apache Spark based notebooks in Google Colab: [Notebook](https://github.com/shauryashaurya/learn-data-munging/blob/main/03-Spark/001.02%20(optional)%20Google_Colab_setup_Spark_download_data.ipynb) also [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/03-Spark/001.02%20(optional)%20Google_Colab_setup_Spark_download_data.ipynb)  
-   
-	  
-#### 02 - A set of notebooks exploring data wrangling in depth using the MovieLens dataset
-* Part 01: Overview, Starting Spark and Loading the data: [Notebook](https://github.com/shauryashaurya/learn-data-munging/blob/main/03-Spark/002.01-Analyze-MovieLens-using-PySpark.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/03-Spark/002.01-Analyze-MovieLens-using-PySpark.ipynb)
-    
-* Part 02: Data Analysis basics using tags.csv from the MovieLens dataset: [Notebook](https://github.com/shauryashaurya/learn-data-munging/blob/main/03-Spark/002.02-Analyze-MovieLens-using-PySpark.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/03-Spark/002.02-Analyze-MovieLens-using-PySpark.ipynb)
-    
-    
-	
+# Distributed Data wrangling with Spark        
+        
+<html>         
+	<img src="./../images/data_munging_03-Spark.png" width="95%" align="center" alt="Data Wrangling with Python and PySpark" />          
+	<p font-size="8px">Distributed Data wrangling with Spark</p>         
+</html>           
+          
+        
+### 03 [Spark](https://github.com/shauryashaurya/learn-data-munging/tree/main/03-Spark)          
+            
+#### 01 - Toy introduction to the basics        
+* 01 - Setting up Spark locally (on Windows): [Notebook](https://github.com/shauryashaurya/learn-data-munging/blob/main/03-Spark/001.01%20-%20Setup%20and%20suchlike.ipynb) also [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/03-Spark/001.01%20-%20Setup%20and%20suchlike.ipynb)          
+          
+* 02 - How to run Apache Spark based notebooks in Google Colab: [Notebook](https://github.com/shauryashaurya/learn-data-munging/blob/main/03-Spark/001.02%20(optional)%20Google_Colab_setup_Spark_download_data.ipynb) also [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/03-Spark/001.02%20(optional)%20Google_Colab_setup_Spark_download_data.ipynb)          
+           
+	          
+#### 02 - A set of notebooks exploring data wrangling in depth using the MovieLens dataset        
+* Part 01: Overview, Starting Spark and Loading the data: [Notebook](https://github.com/shauryashaurya/learn-data-munging/blob/main/03-Spark/002.01-Analyze-MovieLens-using-PySpark.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/03-Spark/002.01-Analyze-MovieLens-using-PySpark.ipynb)        
+            
+* Part 02: Data Analysis basics using tags.csv from the MovieLens dataset: [Notebook](https://github.com/shauryashaurya/learn-data-munging/blob/main/03-Spark/002.02-Analyze-MovieLens-using-PySpark.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/03-Spark/002.02-Analyze-MovieLens-using-PySpark.ipynb)        
+          
+          
+#### 03 - Harder to solve problems - trying to capture a variety of "problem types" at appear hard to solve in the wild        
+* 01: Just the questions: [Notebook](https://github.com/shauryashaurya/learn-data-munging/blob/main/03-Spark/003.02-Harder-Problems-in-PySpark(Questions-with-Hints).ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/03-Spark/003.02-Harder-Problems-in-PySpark(Questions-with-Hints).ipynb)        
+            
+* 02: Added hints, patterns etc. to the questions, read through if you are not really doing anything this afternoon: [Notebook](https://github.com/shauryashaurya/learn-data-munging/blob/main/03-Spark/003.01-Harder-Problems-in-PySpark(Questions-only).ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shauryashaurya/learn-data-munging/blob/main/03-Spark/003.01-Harder-Problems-in-PySpark(Questions-only).ipynb)        
+            
+            
+	        
 .
