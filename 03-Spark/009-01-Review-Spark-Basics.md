@@ -205,7 +205,7 @@ Which of these execution steps would Spark's optimizer likely perform?** (Multi-
         
 **Yeah, ahaan, mmhmm, but *why?***: Spark can integrate with external ML frameworks primarily through libraries like Spark Deep Learning Pipelines (which supports TensorFlow, Keras, etc.) and by deploying models as UDFs (User Defined Functions). This approach allows data preprocessing at scale with Spark while leveraging specialized ML frameworks for model training and inference. Spark doesn't have native ONNX support built-in as suggested in option B, and it's not limited to internal models (A) or RDD-based implementations (D).        
         
-## RDDs and Low-Level APIs (Limited to 3 questions)        
+## RDDs and Low-Level APIs         
         
 **Question 19: What best describes the key differences between `reduceByKey` and `groupByKey` operations in Spark RDDs?** (Single select)        
 - A) `reduceByKey` works with key-value pairs while `groupByKey` works with any RDD type        
