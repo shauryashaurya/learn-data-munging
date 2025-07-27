@@ -186,8 +186,9 @@ When there's time or need, we'll get to them as well.
 * [DuckDB](https://duckdb.org/), [GitHub](https://github.com/duckdb/duckdb)          
 * [FoundationDB](https://www.foundationdb.org/), [GitHub](https://github.com/apple/foundationdb)          
 * [Danfo.js - pandas like dataframes in JavaScript](https://danfo.jsdata.org/)        
-* [Velox](https://engineering.fb.com/2023/03/09/open-source/velox-open-source-execution-engine/) also [GitHub](https://github.com/facebookincubator/velox) and [Gluten](https://oap-project.github.io/gluten/), also [GitHub](https://github.com/oap-project/gluten/tree/main)        
-* I think there's something to be said about leveraging TPC benchmarks - we'll attend to this in due time. There's got to be a .md readme in this repo that'll list all the queries anyway. Yea, lemme do that soonish.        
+* [Velox](https://engineering.fb.com/2023/03/09/open-source/velox-open-source-execution-engine/) also [GitHub](https://github.com/facebookincubator/velox) and [Gluten](https://oap-project.github.io/gluten/), also [GitHub](https://github.com/oap-project/gluten/tree/main)   
+* [Skyrise](https://hpi.de/rabl/projects/skyrise.html) looks very interesting - serverless query processing. [Paper](https://hpi.de/oldsite/fileadmin/user_upload/fachgebiete/rabl/publications/2025/skyrise_demo_btw2025.pdf), [GitHub](https://github.com/hpides/skyrise), [dbdb entry](https://dbdb.io/db/skyrise)       
+* I think there's something to be said about leveraging TPC benchmarks - we'll attend to this in due time. There's got to be a .md readme in this repo that'll list all the queries anyway. Yea, lemme do that soon-ish.        
 * Is there value in comparing formats? (Parquet)[https://parquet.apache.org/docs/], (Zarr)[https://zarr.readthedocs.io/en/stable/tutorial.html] etc.?        
 * [Papers and Data - Scifi TV Shows (Scifi TV Show Plot Summaries & Events)](https://paperswithcode.com/dataset/scifi-tv-plots)            
 * [Papers and Data - Story Cloze](https://paperswithcode.com/dataset/storycloze)           
